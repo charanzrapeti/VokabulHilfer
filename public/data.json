@@ -1,0 +1,8838 @@
+[
+  {
+    "german": "veranstaltung",
+    "english": "event"
+  },
+  {
+    "german": "Einsatz",
+    "english": "Mission"
+  },
+  {
+    "german": "forgeschrittne",
+    "english": "advanced"
+  },
+  {
+    "german": "fortschritt",
+    "english": "progress"
+  },
+  {
+    "german": "geduld",
+    "english": "patience"
+  },
+  {
+    "german": "enttauschung",
+    "english": "disappointment"
+  },
+  {
+    "german": "zwecklosigkeit",
+    "english": "futility"
+  },
+  {
+    "german": "zugang",
+    "english": "access"
+  },
+  {
+    "german": "widerspruch",
+    "english": "contradiction"
+  },
+  {
+    "german": "wahrnehmung",
+    "english": "perception"
+  },
+  {
+    "german": "vermeidung",
+    "english": "avoidance"
+  },
+  {
+    "german": "verpflichtung",
+    "english": "engagement"
+  },
+  {
+    "german": "vorstellen",
+    "english": "introduce"
+  },
+  {
+    "german": "vorstellung",
+    "english": "performance"
+  },
+  {
+    "german": "beschrankt",
+    "english": "limited"
+  },
+  {
+    "german": "vermittlung",
+    "english": "mediation"
+  },
+  {
+    "german": "dozent",
+    "english": "lecturer"
+  },
+  {
+    "german": "anfahrt",
+    "english": "directions"
+  },
+  {
+    "german": "gestalten",
+    "english": "design"
+  },
+  {
+    "german": "tauschen",
+    "english": "to exchange"
+  },
+  {
+    "german": "enttäuschen",
+    "english": "disappoint"
+  },
+  {
+    "german": "enttauschen",
+    "english": "disappoint"
+  },
+  {
+    "german": "verzeihung",
+    "english": "forgiveness"
+  },
+  {
+    "german": "erschopfung",
+    "english": "exhaustion"
+  },
+  {
+    "german": "entfuhrte",
+    "english": "kidnapped"
+  },
+  {
+    "german": "erstaunen",
+    "english": "astonish"
+  },
+  {
+    "german": "staunen",
+    "english": "marvel"
+  },
+  {
+    "german": "kraften",
+    "english": "crafting"
+  },
+  {
+    "german": "gerausch",
+    "english": "noise"
+  },
+  {
+    "german": "gerannt",
+    "english": "ran"
+  },
+  {
+    "german": "schrie",
+    "english": "screamed"
+  },
+  {
+    "german": "leiche",
+    "english": "corpse"
+  },
+  {
+    "german": "sterben",
+    "english": "die"
+  },
+  {
+    "german": "gelungen",
+    "english": "succeeded"
+  },
+  {
+    "german": "umgebracht",
+    "english": "killed"
+  },
+  {
+    "german": "getauscht",
+    "english": "exchanged"
+  },
+  {
+    "german": "vergebung",
+    "english": "forgiveness"
+  },
+  {
+    "german": "strafe",
+    "english": "penalty"
+  },
+  {
+    "german": "staub",
+    "english": "dust"
+  },
+  {
+    "german": "verbrennen",
+    "english": "burn"
+  },
+  {
+    "german": "verdammte",
+    "english": "damned"
+  },
+  {
+    "german": "hindernis",
+    "english": "obstacle"
+  },
+  {
+    "german": "umgebracht",
+    "english": "killed"
+  },
+  {
+    "german": "giftigen",
+    "english": "toxic"
+  },
+  {
+    "german": "erscheinen",
+    "english": "appear"
+  },
+  {
+    "german": "versteckte",
+    "english": "hidden"
+  },
+  {
+    "german": "stritten",
+    "english": "argued"
+  },
+  {
+    "german": "gehalten",
+    "english": "held"
+  },
+  {
+    "german": "schwach",
+    "english": "weak"
+  },
+  {
+    "german": "stupste",
+    "english": "nudged"
+  },
+  {
+    "german": "erschöpfung",
+    "english": "exhaustion"
+  },
+  {
+    "german": "erschopfung",
+    "english": "exhaustion"
+  },
+  {
+    "german": "steckte",
+    "english": "stuck"
+  },
+  {
+    "german": "heftig",
+    "english": "violent"
+  },
+  {
+    "german": "schwacher",
+    "english": "weaker"
+  },
+  {
+    "german": "verhalten",
+    "english": "behave"
+  },
+  {
+    "german": "kaninchen",
+    "english": "rabbit"
+  },
+  {
+    "german": "zugrunde",
+    "english": "underlying"
+  },
+  {
+    "german": "wuchs",
+    "english": "growth"
+  },
+  {
+    "german": "tat",
+    "english": "did"
+  },
+  {
+    "german": "retten",
+    "english": "save"
+  },
+  {
+    "german": "mutig",
+    "english": "brave"
+  },
+  {
+    "german": "lehnte",
+    "english": "rejected"
+  },
+  {
+    "german": "verlockend",
+    "english": "tempting"
+  },
+  {
+    "german": "früchte",
+    "english": "fruit"
+  },
+  {
+    "german": "fruchte",
+    "english": "fruit"
+  },
+  {
+    "german": "betrat",
+    "english": "entered"
+  },
+  {
+    "german": "schließlich",
+    "english": "finally"
+  },
+  {
+    "german": "shliesslich",
+    "english": "finally"
+  },
+  {
+    "german": "umheimlich",
+    "english": "spooky"
+  },
+  {
+    "german": "umhem",
+    "english": "around"
+  },
+  {
+    "german": "verlieren",
+    "english": "lose"
+  },
+  {
+    "german": "begleitest",
+    "english": "accompany"
+  },
+  {
+    "german": "erwecken",
+    "english": "awaken"
+  },
+  {
+    "german": "rettung",
+    "english": "rescue"
+  },
+  {
+    "german": "kräfte",
+    "english": "forces"
+  },
+  {
+    "german": "krafte",
+    "english": "forces"
+  },
+  {
+    "german": "retten",
+    "english": "save"
+  },
+  {
+    "german": "umgekommen",
+    "english": "perished"
+  },
+  {
+    "german": "kampfe",
+    "english": "fight"
+  },
+  {
+    "german": "entführte",
+    "english": "kidnapped"
+  },
+  {
+    "german": "entfuhrte",
+    "english": "kidnapped"
+  },
+  {
+    "german": "herrschaft",
+    "english": "rule"
+  },
+  {
+    "german": "lehnte",
+    "english": "rejected"
+  },
+  {
+    "german": "halten",
+    "english": "hold"
+  },
+  {
+    "german": "handen",
+    "english": "hand"
+  },
+  {
+    "german": "sehnte",
+    "english": "longed"
+  },
+  {
+    "german": "herrschten",
+    "english": "prevailed"
+  },
+  {
+    "german": "herrschr",
+    "english": "ruler"
+  },
+  {
+    "german": "neid",
+    "english": "envy"
+  },
+  {
+    "german": "herrschen",
+    "english": "rule"
+  },
+  {
+    "german": "geschah",
+    "english": "happened"
+  },
+  {
+    "german": "wahrheit",
+    "english": "truth"
+  },
+  {
+    "german": "wusste",
+    "english": "knew"
+  },
+  {
+    "german": "umgebung",
+    "english": "vicinity"
+  },
+  {
+    "german": "verängstigt",
+    "english": "frightened"
+  },
+  {
+    "german": "verangstig",
+    "english": "frightened"
+  },
+  {
+    "german": "leibliche",
+    "english": "physical"
+  },
+  {
+    "german": "bemühte",
+    "english": "tried"
+  },
+  {
+    "german": "bemuhte",
+    "english": "tried"
+  },
+  {
+    "german": "begegnet",
+    "english": "met"
+  },
+  {
+    "german": "schüchtern",
+    "english": "shy"
+  },
+  {
+    "german": "schuchtern",
+    "english": "shy"
+  },
+  {
+    "german": "verwunderung",
+    "english": "amazement"
+  },
+  {
+    "german": "gekleidet",
+    "english": "dressed"
+  },
+  {
+    "german": "lief",
+    "english": "ran"
+  },
+  {
+    "german": "vorgestellt",
+    "english": "presented"
+  },
+  {
+    "german": "befanden",
+    "english": "were"
+  },
+  {
+    "german": "gedruckt",
+    "english": "printed"
+  },
+  {
+    "german": "raumschiff",
+    "english": "spaceship"
+  },
+  {
+    "german": "erde",
+    "english": "earth"
+  },
+  {
+    "german": "druckte",
+    "english": "printed"
+  },
+  {
+    "german": "verstaubten",
+    "english": "dusty"
+  },
+  {
+    "german": "heimlich",
+    "english": "secretly"
+  },
+  {
+    "german": "kletterte",
+    "english": "climbed"
+  },
+  {
+    "german": "staunen",
+    "english": "marvel"
+  },
+  {
+    "german": "entdeckte",
+    "english": "discovered"
+  },
+  {
+    "german": "vorsichtig",
+    "english": "cautious"
+  },
+  {
+    "german": "vorsichi",
+    "english": "be careful"
+  },
+  {
+    "german": "verfolgte",
+    "english": "pursued"
+  },
+  {
+    "german": "geräusch",
+    "english": "noise"
+  },
+  {
+    "german": "gerausch",
+    "english": "noise"
+  },
+  {
+    "german": "drehte",
+    "english": "turned"
+  },
+  {
+    "german": "erschrak",
+    "english": "was frightened"
+  },
+  {
+    "german": "erschrack",
+    "english": "frightened"
+  },
+  {
+    "german": "schlich",
+    "english": "sneaked"
+  },
+  {
+    "german": "ausdrücklich",
+    "english": "expressly"
+  },
+  {
+    "german": "ausdrucklich",
+    "english": "expressly"
+  },
+  {
+    "german": "brannte",
+    "english": "burned"
+  },
+  {
+    "german": "heimlich",
+    "english": "secretly"
+  },
+  {
+    "german": "hineinziehen",
+    "english": "pull in"
+  },
+  {
+    "german": "hineinzugen",
+    "english": "to move in"
+  },
+  {
+    "german": "weiterreden",
+    "english": "continue talking"
+  },
+  {
+    "german": "verbunden",
+    "english": "tied together"
+  },
+  {
+    "german": "früheste",
+    "english": "earliest"
+  },
+  {
+    "german": "fruhesten",
+    "english": "earliest"
+  },
+  {
+    "german": "leuchtete",
+    "english": "glowed"
+  },
+  {
+    "german": "b",
+    "english": "b"
+  },
+  {
+    "german": "entkommen",
+    "english": "escape"
+  },
+  {
+    "german": "entfernt",
+    "english": "removed"
+  },
+  {
+    "german": "klatschen",
+    "english": "clap"
+  },
+  {
+    "german": "Gemälde",
+    "english": "painting"
+  },
+  {
+    "german": "sauber",
+    "english": "clean"
+  },
+  {
+    "german": "nachhaltig",
+    "english": "sustainable"
+  },
+  {
+    "german": "enthalten",
+    "english": "contain"
+  },
+  {
+    "german": "knochenaufbau",
+    "english": "bone building"
+  },
+  {
+    "german": "nahrung",
+    "english": "food"
+  },
+  {
+    "german": "geschmack",
+    "english": "taste"
+  },
+  {
+    "german": "unschlagbar",
+    "english": "unbeatable"
+  },
+  {
+    "german": "abgeschnitten",
+    "english": "cut off"
+  },
+  {
+    "german": "warentest",
+    "english": "product test"
+  },
+  {
+    "german": "stiftung",
+    "english": "foundation"
+  },
+  {
+    "german": "leitungswasser",
+    "english": "tap water"
+  },
+  {
+    "german": "hitze",
+    "english": "heat"
+  },
+  {
+    "german": "lohnt",
+    "english": "worth it"
+  },
+  {
+    "german": "veranstaltung",
+    "english": "event"
+  },
+  {
+    "german": "eingesetzte",
+    "english": "used"
+  },
+  {
+    "german": "genutzt",
+    "english": "used"
+  },
+  {
+    "german": "verwirrt",
+    "english": "confused"
+  },
+  {
+    "german": "anwendung",
+    "english": "application"
+  },
+  {
+    "german": "verabschiedung",
+    "english": "adoption"
+  },
+  {
+    "german": "fester",
+    "english": "firmer"
+  },
+  {
+    "german": "trennung",
+    "english": "separation"
+  },
+  {
+    "german": "ubergangen",
+    "english": "ignored"
+  },
+  {
+    "german": "gelten",
+    "english": "apply"
+  },
+  {
+    "german": "regelung",
+    "english": "control"
+  },
+  {
+    "german": "vorliest",
+    "english": "reads aloud"
+  },
+  {
+    "german": "einsperren",
+    "english": "lock up"
+  },
+  {
+    "german": "auszureisen",
+    "english": "to leave"
+  },
+  {
+    "german": "zettel",
+    "english": "note"
+  },
+  {
+    "german": "gehirn",
+    "english": "brain"
+  },
+  {
+    "german": "aufgegeben",
+    "english": "abandoned"
+  },
+  {
+    "german": "erreichen",
+    "english": "to reach"
+  },
+  {
+    "german": "stift",
+    "english": "pen"
+  },
+  {
+    "german": "abholschein",
+    "english": "collection slip"
+  },
+  {
+    "german": "schilddruse",
+    "english": "thyroid"
+  },
+  {
+    "german": "vertraglich",
+    "english": "compatible"
+  },
+  {
+    "german": "festgestellt",
+    "english": "noted"
+  },
+  {
+    "german": "creme",
+    "english": "cream"
+  },
+  {
+    "german": "salbe",
+    "english": "ointment"
+  },
+  {
+    "german": "tropfen",
+    "english": "drops"
+  },
+  {
+    "german": "zapfachen",
+    "english": "tap"
+  },
+  {
+    "german": "lutsch",
+    "english": "suck"
+  },
+  {
+    "german": "der verband",
+    "english": "the association"
+  },
+  {
+    "german": "pflaster",
+    "english": "pavement"
+  },
+  {
+    "german": "uberweist",
+    "english": "transfers"
+  },
+  {
+    "german": "versicherte",
+    "english": "insured"
+  },
+  {
+    "german": "gebühr",
+    "english": "fee"
+  },
+  {
+    "german": "gebuhr",
+    "english": "fee"
+  },
+  {
+    "german": "halstabletten",
+    "english": "throat lozenges"
+  },
+  {
+    "german": "rezeptpflichtige",
+    "english": "prescription"
+  },
+  {
+    "german": "betroffen",
+    "english": "affected"
+  },
+  {
+    "german": "knopf",
+    "english": "button"
+  },
+  {
+    "german": "einzuge",
+    "english": "to insert"
+  },
+  {
+    "german": "gelegenheit",
+    "english": "opportunity"
+  },
+  {
+    "german": "verdachtigen",
+    "english": "suspect"
+  },
+  {
+    "german": "umgestosen",
+    "english": "overturned"
+  },
+  {
+    "german": "austerlitz",
+    "english": "austerlitz"
+  },
+  {
+    "german": "verwaltung",
+    "english": "administration"
+  },
+  {
+    "german": "wolfsangriffe",
+    "english": "wolf attacks"
+  },
+  {
+    "german": "unbesetzt",
+    "english": "vacant"
+  },
+  {
+    "german": "dringend",
+    "english": "urgent"
+  },
+  {
+    "german": "azubis",
+    "english": "trainees"
+  },
+  {
+    "german": "begeistert",
+    "english": "enthusiastic"
+  },
+  {
+    "german": "gesperrt",
+    "english": "blocked"
+  },
+  {
+    "german": "verkündet",
+    "english": "announced"
+  },
+  {
+    "german": "verkundet",
+    "english": "announced"
+  },
+  {
+    "german": "abstimmung",
+    "english": "poll"
+  },
+  {
+    "german": "aufgenommen",
+    "english": "recorded"
+  },
+  {
+    "german": "austritt",
+    "english": "exit"
+  },
+  {
+    "german": "abmachungen",
+    "english": "agreements"
+  },
+  {
+    "german": "verhaftet",
+    "english": "arrested"
+  },
+  {
+    "german": "verhindern",
+    "english": "impede"
+  },
+  {
+    "german": "besetzung",
+    "english": "occupation"
+  },
+  {
+    "german": "verlauft",
+    "english": "runs"
+  },
+  {
+    "german": "ausbricht",
+    "english": "breaks out"
+  },
+  {
+    "german": "behinderungen",
+    "english": "disabilities"
+  },
+  {
+    "german": "werbung",
+    "english": "advertising"
+  },
+  {
+    "german": "uberzeugen",
+    "english": "convince"
+  },
+  {
+    "german": "genannt",
+    "english": "called"
+  },
+  {
+    "german": "stimme",
+    "english": "agree"
+  },
+  {
+    "german": "amtlich",
+    "english": "official"
+  },
+  {
+    "german": "benachrichtigung",
+    "english": "notification"
+  },
+  {
+    "german": "häufiger",
+    "english": "more often"
+  },
+  {
+    "german": "haufiger",
+    "english": "more frequently"
+  },
+  {
+    "german": "geklebten",
+    "english": "glued"
+  },
+  {
+    "german": "schwule",
+    "english": "gay"
+  },
+  {
+    "german": "aufstand",
+    "english": "revolt"
+  },
+  {
+    "german": "schminke",
+    "english": "makeup"
+  },
+  {
+    "german": "verteilen",
+    "english": "distribute"
+  },
+  {
+    "german": "zufällig",
+    "english": "randomly"
+  },
+  {
+    "german": "zuverllig",
+    "english": "reliable"
+  },
+  {
+    "german": "angefangen",
+    "english": "begun"
+  },
+  {
+    "german": "beschließen",
+    "english": "decide on"
+  },
+  {
+    "german": "einsamkeit",
+    "english": "lonliness"
+  },
+  {
+    "german": "uberlegt",
+    "english": "considered"
+  },
+  {
+    "german": "genommen",
+    "english": "taken"
+  },
+  {
+    "german": "ablauf",
+    "english": "process"
+  },
+  {
+    "german": "ablauf",
+    "english": "process"
+  },
+  {
+    "german": "bürgerin",
+    "english": "citizen"
+  },
+  {
+    "german": "burgerin",
+    "english": "burger"
+  },
+  {
+    "german": "meldebescheinigung",
+    "english": "registration certificate"
+  },
+  {
+    "german": "zulassungsbescheid",
+    "english": "approval decision"
+  },
+  {
+    "german": "zulassungbescheid",
+    "english": "approval decision"
+  },
+  {
+    "german": "zulassungbeschi",
+    "english": "admission certificate"
+  },
+  {
+    "german": "rundfunk",
+    "english": "broadcast"
+  },
+  {
+    "german": "aufgeführt",
+    "english": "listed"
+  },
+  {
+    "german": "aufgefuhrt",
+    "english": "listed"
+  },
+  {
+    "german": "beweisen",
+    "english": "prove"
+  },
+  {
+    "german": "geliegen",
+    "english": "lie"
+  },
+  {
+    "german": "streit",
+    "english": "dispute"
+  },
+  {
+    "german": "malzeit",
+    "english": "mealtime"
+  },
+  {
+    "german": "umschlag",
+    "english": "envelope"
+  },
+  {
+    "german": "erledigen",
+    "english": "complete"
+  },
+  {
+    "german": "einwander",
+    "english": "immigrant"
+  },
+  {
+    "german": "zuwanderung",
+    "english": "immigration"
+  },
+  {
+    "german": "einwanderung",
+    "english": "immigration"
+  },
+  {
+    "german": "verfassung",
+    "english": "constitution"
+  },
+  {
+    "german": "pauschal",
+    "english": "lump sum"
+  },
+  {
+    "german": "abweichungen",
+    "english": "deviations"
+  },
+  {
+    "german": "abwanderung",
+    "english": "migration"
+  },
+  {
+    "german": "pauschal",
+    "english": "lump sum"
+  },
+  {
+    "german": "zunehmend",
+    "english": "increasingly"
+  },
+  {
+    "german": "grenzen",
+    "english": "borders"
+  },
+  {
+    "german": "kneppe",
+    "english": "kneppe"
+  },
+  {
+    "german": "uberlegt",
+    "english": "considered"
+  },
+  {
+    "german": "abgenommen",
+    "english": "removed"
+  },
+  {
+    "german": "bekommen",
+    "english": "receive"
+  },
+  {
+    "german": "genommen",
+    "english": "taken"
+  },
+  {
+    "german": "entdecken",
+    "english": "discover"
+  },
+  {
+    "german": "folgenden",
+    "english": "following"
+  },
+  {
+    "german": "anschließend",
+    "english": "afterward"
+  },
+  {
+    "german": "anschliesend",
+    "english": "afterward"
+  },
+  {
+    "german": "verrieten",
+    "english": "betrayed"
+  },
+  {
+    "german": "erstaunlich",
+    "english": "astonishing"
+  },
+  {
+    "german": "bewundern",
+    "english": "admire"
+  },
+  {
+    "german": "unterstutz",
+    "english": "support"
+  },
+  {
+    "german": "vorsichtig",
+    "english": "cautious"
+  },
+  {
+    "german": "verlangt",
+    "english": "required"
+  },
+  {
+    "german": "anstellen",
+    "english": "hire"
+  },
+  {
+    "german": "verwalten",
+    "english": "administer"
+  },
+  {
+    "german": "knapp",
+    "english": "meager"
+  },
+  {
+    "german": "dose",
+    "english": "dose"
+  },
+  {
+    "german": "doppelt",
+    "english": "double"
+  },
+  {
+    "german": "stein",
+    "english": "stone"
+  },
+  {
+    "german": "uberlegt",
+    "english": "considered"
+  },
+  {
+    "german": "doch",
+    "english": "but"
+  },
+  {
+    "german": "dienst",
+    "english": "service"
+  },
+  {
+    "german": "dieb",
+    "english": "thief"
+  },
+  {
+    "german": "wande",
+    "english": "walls"
+  },
+  {
+    "german": "dicht",
+    "english": "tight"
+  },
+  {
+    "german": "sammeln",
+    "english": "collect"
+  },
+  {
+    "german": "darstellen",
+    "english": "represent"
+  },
+  {
+    "german": "ausdruck",
+    "english": "expression"
+  },
+  {
+    "german": "gezogen",
+    "english": "pulled"
+  },
+  {
+    "german": "vorhersagen",
+    "english": "predict"
+  },
+  {
+    "german": "kursschwankungen",
+    "english": "price fluctuations"
+  },
+  {
+    "german": "wirtschaftswachstum",
+    "english": "economic growth"
+  },
+  {
+    "german": "rucksack",
+    "english": "backpack"
+  },
+  {
+    "german": "erschienen",
+    "english": "appeared"
+  },
+  {
+    "german": "übersetzen",
+    "english": "translate"
+  },
+  {
+    "german": "ubersetzt",
+    "english": "translated"
+  },
+  {
+    "german": "landleben",
+    "english": "Country Life"
+  },
+  {
+    "german": "forschen",
+    "english": "research"
+  },
+  {
+    "german": "wirtschaft",
+    "english": "business"
+  },
+  {
+    "german": "gesetz",
+    "english": "law"
+  },
+  {
+    "german": "berufsanerkennung",
+    "english": "professional recognition"
+  },
+  {
+    "german": "anerkennung",
+    "english": "recognition"
+  },
+  {
+    "german": "notwendig",
+    "english": "necessary"
+  },
+  {
+    "german": "zuständig",
+    "english": "responsible"
+  },
+  {
+    "german": "zustandig",
+    "english": "responsible"
+  },
+  {
+    "german": "abhängig",
+    "english": "dependent"
+  },
+  {
+    "german": "abhangig",
+    "english": "dependent"
+  },
+  {
+    "german": "verfahren",
+    "english": "procedure"
+  },
+  {
+    "german": "erfahrt",
+    "english": "find out"
+  },
+  {
+    "german": "pflege",
+    "english": "care"
+  },
+  {
+    "german": "fachkrafteeinwanderunggesetzt",
+    "english": "skilled immigration law"
+  },
+  {
+    "german": "tratsch",
+    "english": "gossip"
+  },
+  {
+    "german": "klatsch",
+    "english": "gossip"
+  },
+  {
+    "german": "verliebt",
+    "english": "in love"
+  },
+  {
+    "german": "beschäftigt",
+    "english": "busy"
+  },
+  {
+    "german": "beschaftigt",
+    "english": "busy"
+  },
+  {
+    "german": "aufwachsen",
+    "english": "grow up"
+  },
+  {
+    "german": "rundfunkgebühr",
+    "english": "broadcasting fee"
+  },
+  {
+    "german": "rundgunkgebuhr",
+    "english": "broadcasting fee"
+  },
+  {
+    "german": "angenehmen",
+    "english": "pleasant"
+  },
+  {
+    "german": "verwirrend",
+    "english": "confusing"
+  },
+  {
+    "german": "abhängig",
+    "english": "dependent"
+  },
+  {
+    "german": "abhangig",
+    "english": "dependent"
+  },
+  {
+    "german": "werststeuer",
+    "english": "value tax"
+  },
+  {
+    "german": "umsonst",
+    "english": "for free"
+  },
+  {
+    "german": "währungen",
+    "english": "currencies"
+  },
+  {
+    "german": "wahrungen",
+    "english": "currencies"
+  },
+  {
+    "german": "versteckten",
+    "english": "hidden"
+  },
+  {
+    "german": "abgeschirmt",
+    "english": "shielded"
+  },
+  {
+    "german": "gehort",
+    "english": "heard"
+  },
+  {
+    "german": "doppelt",
+    "english": "double"
+  },
+  {
+    "german": "sauber",
+    "english": "clean"
+  },
+  {
+    "german": "knopf",
+    "english": "button"
+  },
+  {
+    "german": "beitragen",
+    "english": "contribute"
+  },
+  {
+    "german": "abhauen",
+    "english": "run away"
+  },
+  {
+    "german": "einsteigen",
+    "english": "get in"
+  },
+  {
+    "german": "verrückt",
+    "english": "crazy"
+  },
+  {
+    "german": "verruckt",
+    "english": "crazy"
+  },
+  {
+    "german": "bildung",
+    "english": "education"
+  },
+  {
+    "german": "das interessiert kaum noch eine junge frau",
+    "english": "that hardly interests a young woman anymore"
+  },
+  {
+    "german": "kaum",
+    "english": "barely"
+  },
+  {
+    "german": "desinteresse",
+    "english": "disinterest"
+  },
+  {
+    "german": "herrscht",
+    "english": "prevails"
+  },
+  {
+    "german": "einrichtung",
+    "english": "furnishings"
+  },
+  {
+    "german": "unerreichbar",
+    "english": "unreachable"
+  },
+  {
+    "german": "ausfällt",
+    "english": "fails"
+  },
+  {
+    "german": "ausfallt",
+    "english": "fails"
+  },
+  {
+    "german": "ergebnis",
+    "english": "result"
+  },
+  {
+    "german": "ergebin",
+    "english": "result"
+  },
+  {
+    "german": "abgestraft",
+    "english": "punished"
+  },
+  {
+    "german": "ergebins",
+    "english": "result"
+  },
+  {
+    "german": "ausgegangen",
+    "english": "went out"
+  },
+  {
+    "german": "vorgericht",
+    "english": "in court"
+  },
+  {
+    "german": "schweinfurt",
+    "english": "schweinfurt"
+  },
+  {
+    "german": "dauernd",
+    "english": "constantly"
+  },
+  {
+    "german": "gespeichert",
+    "english": "saved"
+  },
+  {
+    "german": "darstellen",
+    "english": "represent"
+  },
+  {
+    "german": "dach",
+    "english": "roof"
+  },
+  {
+    "german": "sessel",
+    "english": "armchair"
+  },
+  {
+    "german": "bürste",
+    "english": "brush"
+  },
+  {
+    "german": "burste",
+    "english": "brush"
+  },
+  {
+    "german": "bunte",
+    "english": "colorful"
+  },
+  {
+    "german": "gebrannt",
+    "english": "burned"
+  },
+  {
+    "german": "bremsen",
+    "english": "brake"
+  },
+  {
+    "german": "bluhen",
+    "english": "bloom"
+  },
+  {
+    "german": "bloß",
+    "english": "just"
+  },
+  {
+    "german": "blitzt",
+    "english": "flashes"
+  },
+  {
+    "german": "beweisen",
+    "english": "prove"
+  },
+  {
+    "german": "betrag",
+    "english": "amount"
+  },
+  {
+    "german": "besprechen",
+    "english": "discuss"
+  },
+  {
+    "german": "besetzt",
+    "english": "occupied"
+  },
+  {
+    "german": "beschweren",
+    "english": "complain"
+  },
+  {
+    "german": "beschäftigt",
+    "english": "busy"
+  },
+  {
+    "german": "einbrecher",
+    "english": "housebreaker"
+  },
+  {
+    "german": "beschädigt",
+    "english": "damaged"
+  },
+  {
+    "german": "beschadigt",
+    "english": "damaged"
+  },
+  {
+    "german": "beruhigen",
+    "english": "calm"
+  },
+  {
+    "german": "bereich",
+    "english": "area"
+  },
+  {
+    "german": "beleidigen",
+    "english": "insult"
+  },
+  {
+    "german": "beitragen",
+    "english": "contribute"
+  },
+  {
+    "german": "beißt",
+    "english": "bites"
+  },
+  {
+    "german": "behandelt",
+    "english": "treated"
+  },
+  {
+    "german": "erhöht",
+    "english": "elevated"
+  },
+  {
+    "german": "erhoht",
+    "english": "elevated"
+  },
+  {
+    "german": "begründung",
+    "english": "Reason"
+  },
+  {
+    "german": "begrundung",
+    "english": "Reason"
+  },
+  {
+    "german": "begründen",
+    "english": "justify"
+  },
+  {
+    "german": "begrunden",
+    "english": "justify"
+  },
+  {
+    "german": "befreit",
+    "english": "freed"
+  },
+  {
+    "german": "rundfunk",
+    "english": "broadcast"
+  },
+  {
+    "german": "gebuhren",
+    "english": "fees"
+  },
+  {
+    "german": "befreit",
+    "english": "freed"
+  },
+  {
+    "german": "bedient",
+    "english": "served"
+  },
+  {
+    "german": "bedarf",
+    "english": "requirement"
+  },
+  {
+    "german": "beamtinnen",
+    "english": "civil servants"
+  },
+  {
+    "german": "bauern",
+    "english": "farmers"
+  },
+  {
+    "german": "baustelle",
+    "english": "construction site"
+  },
+  {
+    "german": "basteln",
+    "english": "craft"
+  },
+  {
+    "german": "bart",
+    "english": "beard"
+  },
+  {
+    "german": "ballett",
+    "english": "ballet"
+  },
+  {
+    "german": "bescheid",
+    "english": "notice"
+  },
+  {
+    "german": "zeitschrift",
+    "english": "magazine"
+  },
+  {
+    "german": "zeitschrif",
+    "english": "magazine"
+  },
+  {
+    "german": "behalten",
+    "english": "keep"
+  },
+  {
+    "german": "begleiter",
+    "english": "companion"
+  },
+  {
+    "german": "ergebnis",
+    "english": "result"
+  },
+  {
+    "german": "Bedienungsanleitung",
+    "english": "operation manual"
+  },
+  {
+    "german": "bedient",
+    "english": "served"
+  },
+  {
+    "german": "bedarf",
+    "english": "requirement"
+  },
+  {
+    "german": "beamtinnen",
+    "english": "civil servants"
+  },
+  {
+    "german": "basteln",
+    "english": "craft"
+  },
+  {
+    "german": "bescheid",
+    "english": "notice"
+  },
+  {
+    "german": "ausnahme",
+    "english": "exception"
+  },
+  {
+    "german": "auftrag",
+    "english": "order"
+  },
+  {
+    "german": "Auftrag",
+    "english": "Order"
+  },
+  {
+    "german": "aufgegeben",
+    "english": "given up"
+  },
+  {
+    "german": "betrag",
+    "english": "amount"
+  },
+  {
+    "german": "aufforderung",
+    "english": "request"
+  },
+  {
+    "german": "Aufforderung",
+    "english": "request"
+  },
+  {
+    "german": "forderte",
+    "english": "demanded"
+  },
+  {
+    "german": "blass",
+    "english": "pale"
+  },
+  {
+    "german": "aufgefallen",
+    "english": "noticed"
+  },
+  {
+    "german": "gesunken",
+    "english": "sunk"
+  },
+  {
+    "german": "anwesend",
+    "english": "present"
+  },
+  {
+    "german": "antrag",
+    "english": "application"
+  },
+  {
+    "german": "anstellen",
+    "english": "hire"
+  },
+  {
+    "german": "angenehm",
+    "english": "pleasant"
+  },
+  {
+    "german": "angabe",
+    "english": "specification"
+  },
+  {
+    "german": "ange",
+    "english": "attached"
+  },
+  {
+    "german": "anerkannt",
+    "english": "accepted"
+  },
+  {
+    "german": "amüsiert",
+    "english": "amused"
+  },
+  {
+    "german": "strecke",
+    "english": "route"
+  },
+  {
+    "german": "allgemeine",
+    "english": "general"
+  },
+  {
+    "german": "umweltschutz",
+    "english": "environmental Protection"
+  },
+  {
+    "german": "Umweltschutz",
+    "english": "environmental Protection"
+  },
+  {
+    "german": "abgelehnt",
+    "english": "rejected"
+  },
+  {
+    "german": "abschließen",
+    "english": "complete"
+  },
+  {
+    "german": "abwesend",
+    "english": "absent"
+  },
+  {
+    "german": "vertrauen",
+    "english": "trust"
+  },
+  {
+    "german": "absicht",
+    "english": "intention"
+  },
+  {
+    "german": "abschnitt",
+    "english": "section"
+  },
+  {
+    "german": "abscnitt",
+    "english": "section"
+  },
+  {
+    "german": "abonnieren",
+    "english": "subscribe to"
+  },
+  {
+    "german": "ich habe zehn Kilo abgenommen",
+    "english": "I lost ten kilos"
+  },
+  {
+    "german": "abgenommen",
+    "english": "taken off"
+  },
+  {
+    "german": "abnehmen",
+    "english": "lose weight"
+  },
+  {
+    "german": "verband",
+    "english": "Association"
+  },
+  {
+    "german": "abgemacht",
+    "english": "agreed"
+  },
+  {
+    "german": "luft",
+    "english": "air"
+  },
+  {
+    "german": "verschmutzen",
+    "english": "pollute"
+  },
+  {
+    "german": "absagen",
+    "english": "cancel"
+  },
+  {
+    "german": "abfahrt",
+    "english": "Departure"
+  },
+  {
+    "german": "Abenteuer",
+    "english": "adventure"
+  },
+  {
+    "german": "abbiegen",
+    "english": "turn"
+  },
+  {
+    "german": "geraten",
+    "english": "devices"
+  },
+  {
+    "german": "einschaltet",
+    "english": "turns on"
+  },
+  {
+    "german": "abbiegen",
+    "english": "turn"
+  },
+  {
+    "german": "rückmeldung",
+    "english": "return message"
+  },
+  {
+    "german": "ruckmeldung",
+    "english": "return message"
+  },
+  {
+    "german": "ruckmei",
+    "english": "ruckmei"
+  },
+  {
+    "german": "Genehmigung",
+    "english": "permit"
+  },
+  {
+    "german": "wahrend",
+    "english": "while"
+  },
+  {
+    "german": "",
+    "english": "Vereinen"
+  },
+  {
+    "german": "vereinbaren",
+    "english": "vereinbaren"
+  },
+  {
+    "german": "wegen",
+    "english": "because of"
+  },
+  {
+    "german": "zuverlässige",
+    "english": "zuverlässig"
+  },
+  {
+    "german": "Tagesablauf",
+    "english": "Daily schedule"
+  },
+  {
+    "german": "aufstrich",
+    "english": "spread"
+  },
+  {
+    "german": "vereinbarung",
+    "english": "agreement"
+  },
+  {
+    "german": "verhandlebar",
+    "english": "negotiable"
+  },
+  {
+    "german": "erhalten",
+    "english": "receive"
+  },
+  {
+    "german": "erhatlich",
+    "english": "available"
+  },
+  {
+    "german": "Veranstaltungen",
+    "english": "Events"
+  },
+  {
+    "german": "stoppuhren",
+    "english": "stopwatches"
+  },
+  {
+    "german": "schlägt",
+    "english": "beats"
+  },
+  {
+    "german": "ausgeschaltet",
+    "english": "switched off"
+  },
+  {
+    "german": "aufversehen",
+    "english": "accidentally"
+  },
+  {
+    "german": "seife",
+    "english": "soap"
+  },
+  {
+    "german": "schmutzig",
+    "english": "dirty"
+  },
+  {
+    "german": "schlägt",
+    "english": "beats"
+  },
+  {
+    "german": "schlagt",
+    "english": "beats"
+  },
+  {
+    "german": "trittskarte",
+    "english": "entry ticket"
+  },
+  {
+    "german": "geraten",
+    "english": "devices"
+  },
+  {
+    "german": "wettbewerb",
+    "english": "competition"
+  },
+  {
+    "german": "einzige",
+    "english": "only"
+  },
+  {
+    "german": "bekam",
+    "english": "got"
+  },
+  {
+    "german": "verletzen",
+    "english": "injure"
+  },
+  {
+    "german": "ausmachen",
+    "english": "turn off"
+  },
+  {
+    "german": "ausschalten",
+    "english": "turn off"
+  },
+  {
+    "german": "zelt",
+    "english": "tent"
+  },
+  {
+    "german": "zahlreichen",
+    "english": "numerous"
+  },
+  {
+    "german": "unterhalten",
+    "english": "entertain"
+  },
+  {
+    "german": "aufraumen",
+    "english": "clean up"
+  },
+  {
+    "german": "messe",
+    "english": "fair"
+  },
+  {
+    "german": "entdecken",
+    "english": "discover"
+  },
+  {
+    "german": "preiswert",
+    "english": "inexpensive"
+  },
+  {
+    "german": "erstellt",
+    "english": "created"
+  },
+  {
+    "german": "begriff",
+    "english": "expression"
+  },
+  {
+    "german": "genehmigung",
+    "english": "permit"
+  },
+  {
+    "german": "Genehmigung",
+    "english": "permit"
+  },
+  {
+    "german": "aussagen",
+    "english": "testify"
+  },
+  {
+    "german": "aufgewaschen",
+    "english": "washed up"
+  },
+  {
+    "german": "reiseführer",
+    "english": "travel Guide"
+  },
+  {
+    "german": "reisefuhr",
+    "english": "travel"
+  },
+  {
+    "german": "ausstellung",
+    "english": "exhibition"
+  },
+  {
+    "german": "verbringen",
+    "english": "spend"
+  },
+  {
+    "german": "abreise",
+    "english": "departure"
+  },
+  {
+    "german": "ergebnis",
+    "english": "result"
+  },
+  {
+    "german": "zugemacht",
+    "english": "closed it"
+  },
+  {
+    "german": "wetterbericht",
+    "english": "weather report"
+  },
+  {
+    "german": "hinweis",
+    "english": "a notice"
+  },
+  {
+    "german": "abgesagt",
+    "english": "cancelled"
+  },
+  {
+    "german": "verschieben",
+    "english": "move"
+  },
+  {
+    "german": "vorsichtig",
+    "english": "cautious"
+  },
+  {
+    "german": "vorschlag",
+    "english": "suggestion"
+  },
+  {
+    "german": "gezogen",
+    "english": "pulled"
+  },
+  {
+    "german": "vertrag",
+    "english": "contract"
+  },
+  {
+    "german": "verreisen",
+    "english": "travel"
+  },
+  {
+    "german": "vermietet",
+    "english": "rented"
+  },
+  {
+    "german": "verliebt",
+    "english": "in love"
+  },
+  {
+    "german": "vergleichen",
+    "english": "compare"
+  },
+  {
+    "german": "verboten",
+    "english": "forbidden"
+  },
+  {
+    "german": "verabredet",
+    "english": "have an appointment"
+  },
+  {
+    "german": "umgezogen",
+    "english": "moved away"
+  },
+  {
+    "german": "uberweise",
+    "english": "transfer"
+  },
+  {
+    "german": "ubersetzen",
+    "english": "translate"
+  },
+  {
+    "german": "geteilt",
+    "english": "divided"
+  },
+  {
+    "german": "streng",
+    "english": "strictly"
+  },
+  {
+    "german": "strend",
+    "english": "strend"
+  },
+  {
+    "german": "streiten",
+    "english": "argue"
+  },
+  {
+    "german": "sammeln",
+    "english": "collect"
+  },
+  {
+    "german": "reiten",
+    "english": "ride"
+  },
+  {
+    "german": "reinigung",
+    "english": "cleaning"
+  },
+  {
+    "german": "Reinigung",
+    "english": "cleaning"
+  },
+  {
+    "german": "rauche",
+    "english": "smoke"
+  },
+  {
+    "german": "reinigung",
+    "english": "cleaning"
+  },
+  {
+    "german": "Reinigung",
+    "english": "cleaning"
+  },
+  {
+    "german": "reifen",
+    "english": "tires"
+  },
+  {
+    "german": "mittel",
+    "english": "medium"
+  },
+  {
+    "german": "leihen",
+    "english": "lend"
+  },
+  {
+    "german": "gewesen",
+    "english": "been"
+  },
+  {
+    "german": "beschweren",
+    "english": "complain"
+  },
+  {
+    "german": "besche",
+    "english": "besche"
+  },
+  {
+    "german": "Darf ich Ihnen/dir ein Stück Kuchen anbieten?",
+    "english": "May I offer you a piece of cake?"
+  },
+  {
+    "german": "anschließend",
+    "english": "afterward"
+  },
+  {
+    "german": "unterstützung",
+    "english": "support"
+  },
+  {
+    "german": "Unterstützung",
+    "english": "Support"
+  },
+  {
+    "german": "aufzufrischen",
+    "english": "to refresh"
+  },
+  {
+    "german": "kulisse",
+    "english": "backdrop"
+  },
+  {
+    "german": "erschafft",
+    "english": "created"
+  },
+  {
+    "german": "kult",
+    "english": "cult"
+  },
+  {
+    "german": "rettung",
+    "english": "rescue"
+  },
+  {
+    "german": "behalten",
+    "english": "keep"
+  },
+  {
+    "german": "niedlich",
+    "english": "cute"
+  },
+  {
+    "german": "affront",
+    "english": "affront"
+  },
+  {
+    "german": "schwung",
+    "english": "swing"
+  },
+  {
+    "german": "vertrauen",
+    "english": "trust"
+  },
+  {
+    "german": "flote",
+    "english": "flute"
+  },
+  {
+    "german": "knochen",
+    "english": "bone"
+  },
+  {
+    "german": "fruhen",
+    "english": "early"
+  },
+  {
+    "german": "vorsichtig",
+    "english": "cautious"
+  },
+  {
+    "german": "grube",
+    "english": "pit"
+  },
+  {
+    "german": "ausgeleuchtete",
+    "english": "illuminated"
+  },
+  {
+    "german": "luft",
+    "english": "air"
+  },
+  {
+    "german": "hohle",
+    "english": "cave"
+  },
+  {
+    "german": "fuhren",
+    "english": "lead"
+  },
+  {
+    "german": "uberlegen",
+    "english": "superior"
+  },
+  {
+    "german": "baum",
+    "english": "tree"
+  },
+  {
+    "german": "gemeinde",
+    "english": "community"
+  },
+  {
+    "german": "ortsnamen",
+    "english": "place names"
+  },
+  {
+    "german": "regenmantel",
+    "english": "a raincoat"
+  },
+  {
+    "german": "uberquert",
+    "english": "crossed"
+  },
+  {
+    "german": "zumindest",
+    "english": "at least"
+  },
+  {
+    "german": "behalten",
+    "english": "keep"
+  },
+  {
+    "german": "Ich gebe sie dir bald zurück, ja?",
+    "english": "I'll give it back to you soon, okay?"
+  },
+  {
+    "german": "mappe",
+    "english": "folder"
+  },
+  {
+    "german": "stau",
+    "english": "traffic jam"
+  },
+  {
+    "german": "tipp",
+    "english": "tip"
+  },
+  {
+    "german": "Am Donnerstag räume ich mein Zimmer auf.",
+    "english": "On Thursday I clean my room."
+  },
+  {
+    "german": "raumst",
+    "english": "space"
+  },
+  {
+    "german": "flote",
+    "english": "flute"
+  },
+  {
+    "german": "Schlagzeug",
+    "english": "Drums"
+  },
+  {
+    "german": "Das Sofa, das stellen wir da an die Wand.",
+    "english": "We’ll put the sofa against the wall."
+  },
+  {
+    "german": "ubernachten",
+    "english": "stay overnight"
+  },
+  {
+    "german": "zettel",
+    "english": "note"
+  },
+  {
+    "german": "tafel",
+    "english": "blackboard"
+  },
+  {
+    "german": "aufenthalts",
+    "english": "stay"
+  },
+  {
+    "german": "Aufenthalts",
+    "english": "Stay"
+  },
+  {
+    "german": "fahnchen",
+    "english": "flag"
+  },
+  {
+    "german": "Sehenswürdigkeit",
+    "english": "Sightseeing"
+  },
+  {
+    "german": "gerichte",
+    "english": "dishes"
+  },
+  {
+    "german": "geklappt",
+    "english": "succeeded"
+  },
+  {
+    "german": "rausfinden",
+    "english": "find out"
+  },
+  {
+    "german": "werbung",
+    "english": "advertising"
+  },
+  {
+    "german": "abgegeben",
+    "english": "submitted"
+  },
+  {
+    "german": "fundbüro",
+    "english": "lost property office"
+  },
+  {
+    "german": "fundburo",
+    "english": "lost property office"
+  },
+  {
+    "german": "Traumfrau",
+    "english": "dream woman"
+  },
+  {
+    "german": "Schlafsack und ihre Isomatte.",
+    "english": "Sleeping bag and your sleeping mat."
+  },
+  {
+    "german": "spinnst",
+    "english": "crazy"
+  },
+  {
+    "german": "angekommen",
+    "english": "arrived"
+  },
+  {
+    "german": "unternehmen",
+    "english": "company"
+  },
+  {
+    "german": "beschaftig",
+    "english": "busy"
+  },
+  {
+    "german": "unterstelle",
+    "english": "assume"
+  },
+  {
+    "german": "beobachtet",
+    "english": "observed"
+  },
+  {
+    "german": "uberzeugt",
+    "english": "convinced"
+  },
+  {
+    "german": "betrag",
+    "english": "amount"
+  },
+  {
+    "german": "wirtschft",
+    "english": "business"
+  },
+  {
+    "german": "kampft",
+    "english": "fights"
+  },
+  {
+    "german": "beschaft",
+    "english": "employed"
+  },
+  {
+    "german": "bewerbungsgespräch",
+    "english": "Job Interview"
+  },
+  {
+    "german": "davon",
+    "english": "of that"
+  },
+  {
+    "german": "badeausflug",
+    "english": "bathing trip"
+  },
+  {
+    "german": "ich durfte gar nichhts tun",
+    "english": "I wasn't allowed to do anything"
+  },
+  {
+    "german": "sache",
+    "english": "matter"
+  },
+  {
+    "german": "herumlaufen",
+    "english": "walk around"
+  },
+  {
+    "german": "baum",
+    "english": "tree"
+  },
+  {
+    "german": "schlimm",
+    "english": "terrible"
+  },
+  {
+    "german": "verletzt",
+    "english": "injured"
+  },
+  {
+    "german": "ausfluge",
+    "english": "trips"
+  },
+  {
+    "german": "teilnehmer",
+    "english": "participant"
+  },
+  {
+    "german": "begegnungen",
+    "english": "encounters"
+  },
+  {
+    "german": "kaum",
+    "english": "barely"
+  },
+  {
+    "german": "gegenseitig",
+    "english": "each other"
+  },
+  {
+    "german": "verwiklichen",
+    "english": "realize"
+  },
+  {
+    "german": "ermutigen",
+    "english": "encourage"
+  },
+  {
+    "german": "unterstützen",
+    "english": "support"
+  },
+  {
+    "german": "unterstutzen",
+    "english": "support"
+  },
+  {
+    "german": "herausforderungen",
+    "english": "challenges"
+  },
+  {
+    "german": "herasuforderungen",
+    "english": "challenges"
+  },
+  {
+    "german": "versichern",
+    "english": "assure"
+  },
+  {
+    "german": "ubernehmen",
+    "english": "take over"
+  },
+  {
+    "german": "verantwortung",
+    "english": "responsibility"
+  },
+  {
+    "german": "bereit",
+    "english": "ready"
+  },
+  {
+    "german": "gründen",
+    "english": "found"
+  },
+  {
+    "german": "grunden",
+    "english": "found"
+  },
+  {
+    "german": "geben",
+    "english": "give"
+  },
+  {
+    "german": "beziehung",
+    "english": "relationship"
+  },
+  {
+    "german": "untrelagen",
+    "english": "documents"
+  },
+  {
+    "german": "beantragt",
+    "english": "requested"
+  },
+  {
+    "german": "botschaft",
+    "english": "message"
+  },
+  {
+    "german": "genehmigungen",
+    "english": "approvals"
+  },
+  {
+    "german": "aufenthalts",
+    "english": "stay"
+  },
+  {
+    "german": "zurzeit",
+    "english": "currently"
+  },
+  {
+    "german": "unterweg",
+    "english": "on the way"
+  },
+  {
+    "german": "notwendig",
+    "english": "necessary"
+  },
+  {
+    "german": "wahrseit",
+    "english": "true"
+  },
+  {
+    "german": "zuhoren",
+    "english": "listen"
+  },
+  {
+    "german": "kerzen",
+    "english": "candles"
+  },
+  {
+    "german": "adventsziet",
+    "english": "advent season"
+  },
+  {
+    "german": "wiedervereinigung",
+    "english": "reunion"
+  },
+  {
+    "german": "wiederverinigung",
+    "english": "reunion"
+  },
+  {
+    "german": "auferstehung",
+    "english": "resurrection"
+  },
+  {
+    "german": "wird",
+    "english": "becomes"
+  },
+  {
+    "german": "zwar",
+    "english": "that is"
+  },
+  {
+    "german": "fortbuilding",
+    "english": "fortbuilding"
+  },
+  {
+    "german": "kam",
+    "english": "came"
+  },
+  {
+    "german": "reichstags",
+    "english": "Reichstag"
+  },
+  {
+    "german": "ehemalige",
+    "english": "former"
+  },
+  {
+    "german": "gymnasium",
+    "english": "high school"
+  },
+  {
+    "german": "silveste",
+    "english": "new year's eve"
+  },
+  {
+    "german": "schmuck",
+    "english": "jewelry"
+  },
+  {
+    "german": "ergebnis",
+    "english": "result"
+  },
+  {
+    "german": "ergeben",
+    "english": "result"
+  },
+  {
+    "german": "erledigen",
+    "english": "complete"
+  },
+  {
+    "german": "lohn",
+    "english": "salary"
+  },
+  {
+    "german": "angenehm",
+    "english": "pleasant"
+  },
+  {
+    "german": "ziel",
+    "english": "goal"
+  },
+  {
+    "german": "kaum",
+    "english": "barely"
+  },
+  {
+    "german": "nicht wohl",
+    "english": "unwell"
+  },
+  {
+    "german": "wohl",
+    "english": "probably"
+  },
+  {
+    "german": "aufgerufen",
+    "english": "called"
+  },
+  {
+    "german": "angestellen beraten",
+    "english": "advise employees"
+  },
+  {
+    "german": "beschäftigen",
+    "english": "occupy"
+  },
+  {
+    "german": "beschaftigen",
+    "english": "occupy"
+  },
+  {
+    "german": "hilfsmittel",
+    "english": "tools"
+  },
+  {
+    "german": "beschaft",
+    "english": "procured"
+  },
+  {
+    "german": "besteht",
+    "english": "consists"
+  },
+  {
+    "german": "verandert",
+    "english": "changed"
+  },
+  {
+    "german": "ausrichten",
+    "english": "align"
+  },
+  {
+    "german": "baustelle",
+    "english": "construction site"
+  },
+  {
+    "german": "strecke",
+    "english": "route"
+  },
+  {
+    "german": "probe",
+    "english": "sample"
+  },
+  {
+    "german": "verändert",
+    "english": "changed"
+  },
+  {
+    "german": "verandert",
+    "english": "changed"
+  },
+  {
+    "german": "ubrigens",
+    "english": "by the way"
+  },
+  {
+    "german": "befreit",
+    "english": "freed"
+  },
+  {
+    "german": "stecken",
+    "english": "put"
+  },
+  {
+    "german": "unterhalten",
+    "english": "entertain"
+  },
+  {
+    "german": "ärgerlich",
+    "english": "annoying"
+  },
+  {
+    "german": "behalten",
+    "english": "keep"
+  },
+  {
+    "german": "unternehmen",
+    "english": "company"
+  },
+  {
+    "german": "röntgenbild",
+    "english": "xray"
+  },
+  {
+    "german": "rontgenbild",
+    "english": "xray"
+  },
+  {
+    "german": "vereinbaren",
+    "english": "agree"
+  },
+  {
+    "german": "klappen",
+    "english": "succeed"
+  },
+  {
+    "german": "unterhalten",
+    "english": "entertain"
+  },
+  {
+    "german": "umsteigen",
+    "english": "transfer"
+  },
+  {
+    "german": "aufenthalt",
+    "english": "stay"
+  },
+  {
+    "german": "aufenthalterlaubnis",
+    "english": "residence permit"
+  },
+  {
+    "german": "bescheinigung",
+    "english": "certification"
+  },
+  {
+    "german": "unterlagen",
+    "english": "documents"
+  },
+  {
+    "german": "gebuhr",
+    "english": "fee"
+  },
+  {
+    "german": "beantragt",
+    "english": "requested"
+  },
+  {
+    "german": "erhoht",
+    "english": "elevated"
+  },
+  {
+    "german": "sauer",
+    "english": "sour"
+  },
+  {
+    "german": "angenommen",
+    "english": "assumed"
+  },
+  {
+    "german": "ausreichend",
+    "english": "sufficient"
+  },
+  {
+    "german": "hinweg",
+    "english": "across"
+  },
+  {
+    "german": "besiegt",
+    "english": "defeated"
+  },
+  {
+    "german": "schuld",
+    "english": "fault"
+  },
+  {
+    "german": "beobachten",
+    "english": "observe"
+  },
+  {
+    "german": "umzug",
+    "english": "move"
+  },
+  {
+    "german": "unterweg",
+    "english": "on the way"
+  },
+  {
+    "german": "vorhin",
+    "english": "earlier"
+  },
+  {
+    "german": "dieselbe",
+    "english": "the same"
+  },
+  {
+    "german": "besorgt",
+    "english": "worried"
+  },
+  {
+    "german": "verzeihe",
+    "english": "forgive"
+  },
+  {
+    "german": "gedemutig",
+    "english": "humble"
+  },
+  {
+    "german": "wutend",
+    "english": "angry"
+  },
+  {
+    "german": "umgezogen",
+    "english": "moved away"
+  },
+  {
+    "german": "verschicke",
+    "english": "send"
+  },
+  {
+    "german": "Sie haben mich mit offenen Armen empfangen",
+    "english": "They welcomed me with open arms"
+  },
+  {
+    "german": "rechnen",
+    "english": "calculate"
+  },
+  {
+    "german": "erledigt",
+    "english": "completed"
+  },
+  {
+    "german": "ehrenamt",
+    "english": "Volunteering"
+  },
+  {
+    "german": "wirtschaft",
+    "english": "business"
+  },
+  {
+    "german": "anbieten",
+    "english": "offer"
+  },
+  {
+    "german": "vertrag",
+    "english": "contract"
+  },
+  {
+    "german": "kneipen",
+    "english": "pubs"
+  },
+  {
+    "german": "auftrage",
+    "english": "assignments"
+  },
+  {
+    "german": "verglichen",
+    "english": "compared"
+  },
+  {
+    "german": "teilzeit",
+    "english": "parttime"
+  },
+  {
+    "german": "verein",
+    "english": "association"
+  },
+  {
+    "german": "erzählt",
+    "english": "told"
+  },
+  {
+    "german": "erzahlt",
+    "english": "told"
+  },
+  {
+    "german": "kreis",
+    "english": "circle"
+  },
+  {
+    "german": "einführung",
+    "english": "introduction"
+  },
+  {
+    "german": "einfuhrung",
+    "english": "introduction"
+  },
+  {
+    "german": "bunten",
+    "english": "colorful"
+  },
+  {
+    "german": "angezogen",
+    "english": "attracted"
+  },
+  {
+    "german": "verlasst",
+    "english": "leaves"
+  },
+  {
+    "german": "steuer",
+    "english": "tax"
+  },
+  {
+    "german": "einfluss",
+    "english": "influence"
+  },
+  {
+    "german": "konkurs",
+    "english": "bankruptcy"
+  },
+  {
+    "german": "bereiche",
+    "english": "areas"
+  },
+  {
+    "german": "widerholen",
+    "english": "to repeat"
+  },
+  {
+    "german": "noch",
+    "english": "still"
+  },
+  {
+    "german": "schild",
+    "english": "sign"
+  },
+  {
+    "german": "oben",
+    "english": "above"
+  },
+  {
+    "german": "In unserer Straße gibt es ein neues Lokal.",
+    "english": "There is a new restaurant on our street."
+  },
+  {
+    "german": "lokal",
+    "english": "local"
+  },
+  {
+    "german": "kurstag",
+    "english": "course day"
+  },
+  {
+    "german": "leicht",
+    "english": "light"
+  },
+  {
+    "german": "legen",
+    "english": "place"
+  },
+  {
+    "german": "kundin",
+    "english": "customer"
+  },
+  {
+    "german": "herd",
+    "english": "stove"
+  },
+  {
+    "german": "Ich kriege 15 Euro in der Stunde für meine Arbeit.",
+    "english": "I get 15 euros an hour for my work."
+  },
+  {
+    "german": "führung",
+    "english": "guide"
+  },
+  {
+    "german": "fuhrung",
+    "english": "guide"
+  },
+  {
+    "german": "feuer",
+    "english": "fire"
+  },
+  {
+    "german": "Ergebnis",
+    "english": "Result"
+  },
+  {
+    "german": "eilig",
+    "english": "hurry"
+  },
+  {
+    "german": "durchsage",
+    "english": "announcement"
+  },
+  {
+    "german": "beamte",
+    "english": "Officer"
+  },
+  {
+    "german": "baum",
+    "english": "tree"
+  },
+  {
+    "german": "vorsicht",
+    "english": "caution"
+  },
+  {
+    "german": "aussage",
+    "english": "expression"
+  },
+  {
+    "german": "anziehen",
+    "english": "put on"
+  },
+  {
+    "german": "ansagen",
+    "english": "announce"
+  },
+  {
+    "german": "mitten",
+    "english": "in the middle"
+  },
+  {
+    "german": "mite",
+    "english": "mite"
+  },
+  {
+    "german": "klamotten",
+    "english": "clothes"
+  },
+  {
+    "german": "ermäßigung",
+    "english": "discount"
+  },
+  {
+    "german": "ermasigung",
+    "english": "reduction"
+  },
+  {
+    "german": "ermag",
+    "english": "like"
+  },
+  {
+    "german": "einschlafen",
+    "english": "fall asleep"
+  },
+  {
+    "german": "verschwende",
+    "english": "waste"
+  },
+  {
+    "german": "verteilen",
+    "english": "distribute"
+  },
+  {
+    "german": "erkunden",
+    "english": "explore"
+  },
+  {
+    "german": "beschloss",
+    "english": "decided"
+  },
+  {
+    "german": "unterhalten",
+    "english": "entertain"
+  },
+  {
+    "german": "niedrig",
+    "english": "low"
+  },
+  {
+    "german": "viereckig",
+    "english": "square"
+  },
+  {
+    "german": "tauewetter",
+    "english": "thaw"
+  },
+  {
+    "german": "zugefroren",
+    "english": "frozen"
+  },
+  {
+    "german": "teiche",
+    "english": "ponds"
+  },
+  {
+    "german": "flusses",
+    "english": "river"
+  },
+  {
+    "german": "bedeckt",
+    "english": "covered"
+  },
+  {
+    "german": "dächer",
+    "english": "roofs"
+  },
+  {
+    "german": "dacher",
+    "english": "roofs"
+  },
+  {
+    "german": "tatsächlich",
+    "english": "actually"
+  },
+  {
+    "german": "tatsachlich",
+    "english": "actually"
+  },
+  {
+    "german": "reden",
+    "english": "talk"
+  },
+  {
+    "german": "verschicke",
+    "english": "send"
+  },
+  {
+    "german": "gezeigt",
+    "english": "shown"
+  },
+  {
+    "german": "insgesamt",
+    "english": "in total"
+  },
+  {
+    "german": "besteht",
+    "english": "consists"
+  },
+  {
+    "german": "Betriebswirtschaft",
+    "english": "Business Administration"
+  },
+  {
+    "german": "betrieb",
+    "english": "operation"
+  },
+  {
+    "german": "Dunkelheit",
+    "english": "Darkness"
+  },
+  {
+    "german": "Abschied",
+    "english": "Farewell"
+  },
+  {
+    "german": "Zuwendung",
+    "english": "Donation"
+  },
+  {
+    "german": "pflicht",
+    "english": "duty"
+  },
+  {
+    "german": "Gemeinden",
+    "english": "Communities"
+  },
+  {
+    "german": "gebeten",
+    "english": "requested"
+  },
+  {
+    "german": "überlegt",
+    "english": "considered"
+  },
+  {
+    "german": "uberlegt",
+    "english": "considered"
+  },
+  {
+    "german": "uberledg",
+    "english": "uberledg"
+  },
+  {
+    "german": "verkürzt",
+    "english": "shortened"
+  },
+  {
+    "german": "Pflicht",
+    "english": "Duty"
+  },
+  {
+    "german": "Vorbereitung",
+    "english": "Preparation"
+  },
+  {
+    "german": "vorbereitet",
+    "english": "prepared"
+  },
+  {
+    "german": "begrenzt",
+    "english": "limited"
+  },
+  {
+    "german": "bezeichnet",
+    "english": "designated"
+  },
+  {
+    "german": "Buchführung",
+    "english": "Accounting"
+  },
+  {
+    "german": "niedrigsten",
+    "english": "lowest"
+  },
+  {
+    "german": "verwechsle",
+    "english": "confuse"
+  },
+  {
+    "german": "weiblichen",
+    "english": "female"
+  },
+  {
+    "german": "Übrigens",
+    "english": "By the way"
+  },
+  {
+    "german": "übrigens",
+    "english": "by the way"
+  },
+  {
+    "german": "fürchte",
+    "english": "fear"
+  },
+  {
+    "german": "anspruchsvoll",
+    "english": "demanding"
+  },
+  {
+    "german": "angriff",
+    "english": "attack"
+  },
+  {
+    "german": "bereichen",
+    "english": "areas"
+  },
+  {
+    "german": "geschaft",
+    "english": "business"
+  },
+  {
+    "german": "frieden",
+    "english": "peace"
+  },
+  {
+    "german": "gedacht",
+    "english": "thought"
+  },
+  {
+    "german": "betrag",
+    "english": "amount"
+  },
+  {
+    "german": "umzusetzen",
+    "english": "to implement"
+  },
+  {
+    "german": "eingereicht",
+    "english": "submitted"
+  },
+  {
+    "german": "gemeinde",
+    "english": "community"
+  },
+  {
+    "german": "unterrode",
+    "english": "underrode"
+  },
+  {
+    "german": "trennt",
+    "english": "separates"
+  },
+  {
+    "german": "restmull",
+    "english": "residual waste"
+  },
+  {
+    "german": "heizung",
+    "english": "heating"
+  },
+  {
+    "german": "luftverschmutzung",
+    "english": "air pollution"
+  },
+  {
+    "german": "verschmutuzung",
+    "english": "pollution"
+  },
+  {
+    "german": "abgase",
+    "english": "exhaust fumes"
+  },
+  {
+    "german": "heim",
+    "english": "home"
+  },
+  {
+    "german": "wiesen",
+    "english": "grasslands"
+  },
+  {
+    "german": "ubernehmen",
+    "english": "take over"
+  },
+  {
+    "german": "landwirtschaft",
+    "english": "Agriculture"
+  },
+  {
+    "german": "hof",
+    "english": "court"
+  },
+  {
+    "german": "landwirtatig",
+    "english": "agricultural"
+  },
+  {
+    "german": "geerbt",
+    "english": "inherited"
+  },
+  {
+    "german": "mittelgroß",
+    "english": "mediumsized"
+  },
+  {
+    "german": "bauernhofes",
+    "english": "farm"
+  },
+  {
+    "german": "behalten",
+    "english": "keep"
+  },
+  {
+    "german": "reihe",
+    "english": "row"
+  },
+  {
+    "german": "unterlagen",
+    "english": "documents"
+  },
+  {
+    "german": "untelagen",
+    "english": "documents"
+  },
+  {
+    "german": "unterlagen",
+    "english": "documents"
+  },
+  {
+    "german": "besorgen",
+    "english": "obtain"
+  },
+  {
+    "german": "schufa",
+    "english": "Schufa"
+  },
+  {
+    "german": "vertrag",
+    "english": "contract"
+  },
+  {
+    "german": "mietvertag",
+    "english": "rental contract"
+  },
+  {
+    "german": "mietvertg",
+    "english": "rental agreement"
+  },
+  {
+    "german": "übernehmen",
+    "english": "take over"
+  },
+  {
+    "german": "ubernehmen",
+    "english": "take over"
+  },
+  {
+    "german": "zinsen",
+    "english": "interest charges"
+  },
+  {
+    "german": "niedrigen",
+    "english": "low"
+  },
+  {
+    "german": "beschaffen",
+    "english": "procure"
+  },
+  {
+    "german": "zuverlässig",
+    "english": "reliable"
+  },
+  {
+    "german": "zuverlassig",
+    "english": "reliable"
+  },
+  {
+    "german": "gegründet",
+    "english": "founded"
+  },
+  {
+    "german": "gegrundet",
+    "english": "founded"
+  },
+  {
+    "german": "dabei",
+    "english": "included"
+  },
+  {
+    "german": "verschlafen",
+    "english": "oversleep"
+  },
+  {
+    "german": "rolle",
+    "english": "role"
+  },
+  {
+    "german": "verteilung",
+    "english": "distribution"
+  },
+  {
+    "german": "übrigens",
+    "english": "by the way"
+  },
+  {
+    "german": "ubrigens",
+    "english": "by the way"
+  },
+  {
+    "german": "biogurken",
+    "english": "organic cucumbers"
+  },
+  {
+    "german": "anzug",
+    "english": "men's suit"
+  },
+  {
+    "german": "genauer",
+    "english": "more accurate"
+  },
+  {
+    "german": "weiblich“ oder „männlich",
+    "english": "female or male"
+  },
+  {
+    "german": "magen",
+    "english": "stomach"
+  },
+  {
+    "german": "lokal",
+    "english": "local"
+  },
+  {
+    "german": "Deutschübungen",
+    "english": "German exercises"
+  },
+  {
+    "german": "liefern",
+    "english": "delivery"
+  },
+  {
+    "german": "lied",
+    "english": "song"
+  },
+  {
+    "german": "leihen",
+    "english": "lend"
+  },
+  {
+    "german": "gekündigt",
+    "english": "quit"
+  },
+  {
+    "german": "gekundigt",
+    "english": "quit"
+  },
+  {
+    "german": "kümmern",
+    "english": "take care"
+  },
+  {
+    "german": "kummern",
+    "english": "take care"
+  },
+  {
+    "german": "krimi",
+    "english": "crime"
+  },
+  {
+    "german": "erdgeschoss",
+    "english": "ground floor"
+  },
+  {
+    "german": "gelacht",
+    "english": "laughed"
+  },
+  {
+    "german": "hosen",
+    "english": "pants"
+  },
+  {
+    "german": "geklappt",
+    "english": "succeeded"
+  },
+  {
+    "german": "kette",
+    "english": "chain"
+  },
+  {
+    "german": "verbessern",
+    "english": "improve"
+  },
+  {
+    "german": "ubernachten",
+    "english": "stay overnight"
+  },
+  {
+    "german": "watanabe",
+    "english": "watanabe"
+  },
+  {
+    "german": "herunter",
+    "english": "down"
+  },
+  {
+    "german": "mull rausbringen",
+    "english": "bring out garbage"
+  },
+  {
+    "german": "dabei",
+    "english": "included"
+  },
+  {
+    "german": "heft",
+    "english": "notebook"
+  },
+  {
+    "german": "beantrage",
+    "english": "apply"
+  },
+  {
+    "german": "auftrage",
+    "english": "assignments"
+  },
+  {
+    "german": "antrage",
+    "english": "apply"
+  },
+  {
+    "german": "obwohl",
+    "english": "although"
+  },
+  {
+    "german": "inhaltsstoffe",
+    "english": "ingredients"
+  },
+  {
+    "german": "gewundert",
+    "english": "wondered"
+  },
+  {
+    "german": "formular finanzamt",
+    "english": "tax office form"
+  },
+  {
+    "german": "angeben",
+    "english": "indicate"
+  },
+  {
+    "german": "aufzubauen",
+    "english": "to build"
+  },
+  {
+    "german": "geschäftsräume",
+    "english": "business premises"
+  },
+  {
+    "german": "geschaftsraume",
+    "english": "business premises"
+  },
+  {
+    "german": "senfsalon",
+    "english": "mustard salon"
+  },
+  {
+    "german": "gezeigt",
+    "english": "shown"
+  },
+  {
+    "german": "sendung",
+    "english": "broadcast"
+  },
+  {
+    "german": "reihe",
+    "english": "row"
+  },
+  {
+    "german": "handwerksbetrieb",
+    "english": "craft business"
+  },
+  {
+    "german": "tagespflege",
+    "english": "day care"
+  },
+  {
+    "german": "rage",
+    "english": "rage"
+  },
+  {
+    "german": "überzeugen",
+    "english": "convince"
+  },
+  {
+    "german": "uberzeugen",
+    "english": "convince"
+  },
+  {
+    "german": "beschaffen",
+    "english": "procure"
+  },
+  {
+    "german": "auftragen",
+    "english": "Instruct"
+  },
+  {
+    "german": "zuverlässig",
+    "english": "reliable"
+  },
+  {
+    "german": "zuverlassig",
+    "english": "reliable"
+  },
+  {
+    "german": "konkurrenz",
+    "english": "competition"
+  },
+  {
+    "german": "unabhangigkeit",
+    "english": "independence"
+  },
+  {
+    "german": "leisten",
+    "english": "afford"
+  },
+  {
+    "german": "anzustellen",
+    "english": "to employ"
+  },
+  {
+    "german": "selbstandig",
+    "english": "self-employed"
+  },
+  {
+    "german": "angesteller",
+    "english": "employee"
+  },
+  {
+    "german": "gegründet",
+    "english": "founded"
+  },
+  {
+    "german": "gegrundet",
+    "english": "founded"
+  },
+  {
+    "german": "geschatzt",
+    "english": "estimated"
+  },
+  {
+    "german": "aufgenommen",
+    "english": "recorded"
+  },
+  {
+    "german": "gucken",
+    "english": "look"
+  },
+  {
+    "german": "einfahrt",
+    "english": "entrance"
+  },
+  {
+    "german": "beschädigt",
+    "english": "damaged"
+  },
+  {
+    "german": "beschadigt",
+    "english": "damaged"
+  },
+  {
+    "german": "beträge",
+    "english": "amounts"
+  },
+  {
+    "german": "betrage",
+    "english": "amount"
+  },
+  {
+    "german": "sinken die betrage",
+    "english": "the amounts decrease"
+  },
+  {
+    "german": "sinken die bie",
+    "english": "the bees sink"
+  },
+  {
+    "german": "vollkaskoversicherung",
+    "english": "fully comprehensive insurance"
+  },
+  {
+    "german": "gebrauchtes",
+    "english": "used"
+  },
+  {
+    "german": "verschierungsgesellschaft",
+    "english": "insurance company"
+  },
+  {
+    "german": "erholung",
+    "english": "recreation"
+  },
+  {
+    "german": "bewegung",
+    "english": "movement"
+  },
+  {
+    "german": "amrum",
+    "english": "amrum"
+  },
+  {
+    "german": "anzuschauen",
+    "english": "to look at"
+  },
+  {
+    "german": "möglichkeit",
+    "english": "possibility"
+  },
+  {
+    "german": "moglichkeit",
+    "english": "possibility"
+  },
+  {
+    "german": "außerhalb",
+    "english": "outside"
+  },
+  {
+    "german": "auserhalb",
+    "english": "outside"
+  },
+  {
+    "german": "regentag",
+    "english": "rainy day"
+  },
+  {
+    "german": "wachen",
+    "english": "guard"
+  },
+  {
+    "german": "verlasst",
+    "english": "leaves"
+  },
+  {
+    "german": "flusterst",
+    "english": "whisper"
+  },
+  {
+    "german": "regenbogen",
+    "english": "rainbow"
+  },
+  {
+    "german": "stern",
+    "english": "star"
+  },
+  {
+    "german": "taschentuch",
+    "english": "Handkerchief"
+  },
+  {
+    "german": "umarmt",
+    "english": "hugged"
+  },
+  {
+    "german": "gestorben",
+    "english": "died"
+  },
+  {
+    "german": "strecke",
+    "english": "route"
+  },
+  {
+    "german": "sahne",
+    "english": "cream"
+  },
+  {
+    "german": "ostfriesentee",
+    "english": "East Frisian tea"
+  },
+  {
+    "german": "lacheln",
+    "english": "smile"
+  },
+  {
+    "german": "boote",
+    "english": "boats"
+  },
+  {
+    "german": "nachhilfe",
+    "english": "tutoring"
+  },
+  {
+    "german": "streicheln",
+    "english": "stroke"
+  },
+  {
+    "german": "streichele",
+    "english": "stroke"
+  },
+  {
+    "german": "gewohnheit",
+    "english": "habit"
+  },
+  {
+    "german": "gw",
+    "english": "gw"
+  },
+  {
+    "german": "verschwunden",
+    "english": "disappeared"
+  },
+  {
+    "german": "ablauf",
+    "english": "process"
+  },
+  {
+    "german": "ungeduldig",
+    "english": "impatient"
+  },
+  {
+    "german": "geimpft",
+    "english": "vaccinated"
+  },
+  {
+    "german": "genießen",
+    "english": "enjoy"
+  },
+  {
+    "german": "geniesen",
+    "english": "enjoy"
+  },
+  {
+    "german": "verabredet",
+    "english": "have an appointment"
+  },
+  {
+    "german": "trafen",
+    "english": "met"
+  },
+  {
+    "german": "erschrickt",
+    "english": "frightened"
+  },
+  {
+    "german": "gegen",
+    "english": "against"
+  },
+  {
+    "german": "verischerung",
+    "english": "insurance"
+  },
+  {
+    "german": "erledigen",
+    "english": "complete"
+  },
+  {
+    "german": "geleert",
+    "english": "emptied"
+  },
+  {
+    "german": "beschlossen",
+    "english": "decided"
+  },
+  {
+    "german": "verhindern",
+    "english": "impede"
+  },
+  {
+    "german": "wirtschaft",
+    "english": "business"
+  },
+  {
+    "german": "schutz",
+    "english": "protection"
+  },
+  {
+    "german": "versprochen",
+    "english": "promised"
+  },
+  {
+    "german": "absichtlich",
+    "english": "intentionally"
+  },
+  {
+    "german": "bundestag",
+    "english": "Bundestag"
+  },
+  {
+    "german": "bundenstag",
+    "english": "Bundestag"
+  },
+  {
+    "german": "Advent",
+    "english": "Advent"
+  },
+  {
+    "german": "unzählige",
+    "english": "countless"
+  },
+  {
+    "german": "abschätzig",
+    "english": "derogatory"
+  },
+  {
+    "german": "Veranstaltungen",
+    "english": "Events"
+  },
+  {
+    "german": "Vereine",
+    "english": "societies"
+  },
+  {
+    "german": "leichter",
+    "english": "lighter"
+  },
+  {
+    "german": "erfrischender",
+    "english": "more refreshing"
+  },
+  {
+    "german": "Modegetränk",
+    "english": "fashion drink"
+  },
+  {
+    "german": "entweder",
+    "english": "either"
+  },
+  {
+    "german": "hauptsächlich",
+    "english": "primarily"
+  },
+  {
+    "german": "gemischt",
+    "english": "mixed"
+  },
+  {
+    "german": "verträglich",
+    "english": "compatible"
+  },
+  {
+    "german": "gedanken",
+    "english": "thoughts"
+  },
+  {
+    "german": "unweigerlich",
+    "english": "inevitably"
+  },
+  {
+    "german": "säule",
+    "english": "pillar"
+  },
+  {
+    "german": "Säule",
+    "english": "pillar"
+  },
+  {
+    "german": "Litfaßsäule",
+    "english": "Advertising column"
+  },
+  {
+    "german": "erdgeschoss",
+    "english": "ground floor"
+  },
+  {
+    "german": "empfanger",
+    "english": "recipient"
+  },
+  {
+    "german": "einziehen",
+    "english": "move in"
+  },
+  {
+    "german": "eilig",
+    "english": "hurry"
+  },
+  {
+    "german": "umsteigen",
+    "english": "transfer"
+  },
+  {
+    "german": "gespeichert",
+    "english": "saved"
+  },
+  {
+    "german": "bohnen",
+    "english": "beans"
+  },
+  {
+    "german": "blod",
+    "english": "stupid"
+  },
+  {
+    "german": "bewerben",
+    "english": "apply"
+  },
+  {
+    "german": "bestatigen",
+    "english": "confirm"
+  },
+  {
+    "german": "begründen",
+    "english": "justify"
+  },
+  {
+    "german": "begrunden",
+    "english": "justify"
+  },
+  {
+    "german": "bescheid",
+    "english": "notice"
+  },
+  {
+    "german": "beraten",
+    "english": "advise"
+  },
+  {
+    "german": "gebastelt",
+    "english": "crafted"
+  },
+  {
+    "german": "ausstellung",
+    "english": "exhibition"
+  },
+  {
+    "german": "aussete",
+    "english": "put out"
+  },
+  {
+    "german": "ausgeben",
+    "english": "spend"
+  },
+  {
+    "german": "aufräumen",
+    "english": "clean up"
+  },
+  {
+    "german": "aufraumen",
+    "english": "clean up"
+  },
+  {
+    "german": "teller",
+    "english": "Plate"
+  },
+  {
+    "german": "aufmachen",
+    "english": "open up"
+  },
+  {
+    "german": "keinen fall",
+    "english": "no way"
+  },
+  {
+    "german": "anzug",
+    "english": "men's suit"
+  },
+  {
+    "german": "geandern",
+    "english": "changed"
+  },
+  {
+    "german": "andern",
+    "english": "change"
+  },
+  {
+    "german": "sachen",
+    "english": "things"
+  },
+  {
+    "german": "abgeben",
+    "english": "hand over"
+  },
+  {
+    "german": "abitur",
+    "english": "high school diploma"
+  },
+  {
+    "german": "vorsichtig",
+    "english": "cautious"
+  },
+  {
+    "german": "heft",
+    "english": "notebook"
+  },
+  {
+    "german": "gehalten",
+    "english": "held"
+  },
+  {
+    "german": "vereinshaus",
+    "english": "clubhouse"
+  },
+  {
+    "german": "übernachtest",
+    "english": "stay overnight"
+  },
+  {
+    "german": "ubernachtest",
+    "english": "overnight"
+  },
+  {
+    "german": "hose ist zu eng",
+    "english": "pants are too tight"
+  },
+  {
+    "german": "einziehen",
+    "english": "move in"
+  },
+  {
+    "german": "einzelnen",
+    "english": "individual"
+  },
+  {
+    "german": "eilig",
+    "english": "hurry"
+  },
+  {
+    "german": "ecke",
+    "english": "corner"
+  },
+  {
+    "german": "dringend",
+    "english": "urgent"
+  },
+  {
+    "german": "Deine Tasche kannst du dorthin stellen.",
+    "english": "You can put your bag there."
+  },
+  {
+    "german": "umsteigen",
+    "english": "transfer"
+  },
+  {
+    "german": "denn",
+    "english": "because"
+  },
+  {
+    "german": "unterschrift",
+    "english": "signature"
+  },
+  {
+    "german": "gespeichert",
+    "english": "saved"
+  },
+  {
+    "german": "datei",
+    "english": "file"
+  },
+  {
+    "german": "Darauf fällt mir keine Antwort ein",
+    "english": "I can't think of an answer to that"
+  },
+  {
+    "german": "braten",
+    "english": "roast meat"
+  },
+  {
+    "german": "bose",
+    "english": "evil"
+  },
+  {
+    "german": "bohnen",
+    "english": "beans"
+  },
+  {
+    "german": "gefallen",
+    "english": "fallen"
+  },
+  {
+    "german": "gegal",
+    "english": "no matter"
+  },
+  {
+    "german": "Ich schreibe einen Blog über Mode",
+    "english": "I write a blog about fashion"
+  },
+  {
+    "german": "mode",
+    "english": "Fashion"
+  },
+  {
+    "german": "blöd",
+    "english": "stupid"
+  },
+  {
+    "german": "blod",
+    "english": "stupid"
+  },
+  {
+    "german": "Bitte bleiben Sie stehen!",
+    "english": "Please stand still!"
+  },
+  {
+    "german": "blatt papier",
+    "english": "sheet of paper"
+  },
+  {
+    "german": "blattt",
+    "english": "leaves"
+  },
+  {
+    "german": "bitten",
+    "english": "ask"
+  },
+  {
+    "german": "birnen",
+    "english": "pears"
+  },
+  {
+    "german": "bewerbung",
+    "english": "application"
+  },
+  {
+    "german": "bestätigen",
+    "english": "confirm"
+  },
+  {
+    "german": "bestatigen",
+    "english": "confirm"
+  },
+  {
+    "german": "Ich möchte gern das Schloss besichtigen.",
+    "english": "I would like to visit the castle."
+  },
+  {
+    "german": "schloss",
+    "english": "lock"
+  },
+  {
+    "german": "geheimnis",
+    "english": "secret"
+  },
+  {
+    "german": "gemeinsam",
+    "english": "together"
+  },
+  {
+    "german": "was darf ich dir anbieten",
+    "english": "Can I offer you something"
+  },
+  {
+    "german": "sprachmesiter",
+    "english": "language master"
+  },
+  {
+    "german": "sprachmeister",
+    "english": "language master"
+  },
+  {
+    "german": "ausmachen",
+    "english": "turn off"
+  },
+  {
+    "german": "aufmachen",
+    "english": "open up"
+  },
+  {
+    "german": "anzeige",
+    "english": "advertisement"
+  },
+  {
+    "german": "mittlerweile",
+    "english": "in the meantime"
+  },
+  {
+    "german": "ausgeruht",
+    "english": "rested"
+  },
+  {
+    "german": "auserdam",
+    "english": "besides"
+  },
+  {
+    "german": "ausweis",
+    "english": "ID"
+  },
+  {
+    "german": "austragen",
+    "english": "deliver"
+  },
+  {
+    "german": "aufzug",
+    "english": "elevator"
+  },
+  {
+    "german": "aufregend",
+    "english": "exciting"
+  },
+  {
+    "german": "aufmachen",
+    "english": "open up"
+  },
+  {
+    "german": "aufpassen",
+    "english": "watch out"
+  },
+  {
+    "german": "auskunft",
+    "english": "information"
+  },
+  {
+    "german": "beeilen",
+    "english": "hurry up"
+  },
+  {
+    "german": "beantworten",
+    "english": "answer"
+  },
+  {
+    "german": "bescheid",
+    "english": "notice"
+  },
+  {
+    "german": "berichten",
+    "english": "to report"
+  },
+  {
+    "german": "bequem",
+    "english": "comfortable"
+  },
+  {
+    "german": "begrunden",
+    "english": "justify"
+  },
+  {
+    "german": "bewerben",
+    "english": "apply"
+  },
+  {
+    "german": "bestellen",
+    "english": "order"
+  },
+  {
+    "german": "bestanden",
+    "english": "passed"
+  },
+  {
+    "german": "bestehen",
+    "english": "consist"
+  },
+  {
+    "german": "bestatigen",
+    "english": "confirm"
+  },
+  {
+    "german": "besichtigen",
+    "english": "view"
+  },
+  {
+    "german": "dabei",
+    "english": "included"
+  },
+  {
+    "german": "darauf",
+    "english": "on it"
+  },
+  {
+    "german": "druben",
+    "english": "over there"
+  },
+  {
+    "german": "dringend",
+    "english": "urgent"
+  },
+  {
+    "german": "gedacht",
+    "english": "thought"
+  },
+  {
+    "german": "echt",
+    "english": "Really"
+  },
+  {
+    "german": "empfanger",
+    "english": "recipient"
+  },
+  {
+    "german": "eintritt",
+    "english": "entry"
+  },
+  {
+    "german": "einsteigen",
+    "english": "get in"
+  },
+  {
+    "german": "erzähl",
+    "english": "tell"
+  },
+  {
+    "german": "erzahl",
+    "english": "tell"
+  },
+  {
+    "german": "gewesen",
+    "english": "been"
+  },
+  {
+    "german": "erkaltet",
+    "english": "catches"
+  },
+  {
+    "german": "erfahrung",
+    "english": "experience"
+  },
+  {
+    "german": "gewesen",
+    "english": "been"
+  },
+  {
+    "german": "fehler",
+    "english": "mistake"
+  },
+  {
+    "german": "froh",
+    "english": "glad"
+  },
+  {
+    "german": "gabel",
+    "english": "fork"
+  },
+  {
+    "german": "furchtbar",
+    "english": "terrible"
+  },
+  {
+    "german": "führung",
+    "english": "guide"
+  },
+  {
+    "german": "fuhrung",
+    "english": "guide"
+  },
+  {
+    "german": "fuhrer",
+    "english": "leader"
+  },
+  {
+    "german": "früher",
+    "english": "earlier"
+  },
+  {
+    "german": "gericht",
+    "english": "court"
+  },
+  {
+    "german": "gemüse",
+    "english": "vegetables"
+  },
+  {
+    "german": "gemuse",
+    "english": "vegetables"
+  },
+  {
+    "german": "gehalt",
+    "english": "salary"
+  },
+  {
+    "german": "gegenüber",
+    "english": "opposite"
+  },
+  {
+    "german": "gegenuber",
+    "english": "opposite"
+  },
+  {
+    "german": "gegentiel",
+    "english": "opposite"
+  },
+  {
+    "german": "gultig",
+    "english": "valid"
+  },
+  {
+    "german": "gleis",
+    "english": "track"
+  },
+  {
+    "german": "ich komme gleich",
+    "english": "I'll be right there"
+  },
+  {
+    "german": "gleich",
+    "english": "even"
+  },
+  {
+    "german": "heizung",
+    "english": "heating"
+  },
+  {
+    "german": "hund",
+    "english": "dog"
+  },
+  {
+    "german": "herunterladen",
+    "english": "download"
+  },
+  {
+    "german": "mobel",
+    "english": "furniture"
+  },
+  {
+    "german": "herstellen",
+    "english": "produce"
+  },
+  {
+    "german": "herde",
+    "english": "herd"
+  },
+  {
+    "german": "kette",
+    "english": "chain"
+  },
+  {
+    "german": "kopf",
+    "english": "head"
+  },
+  {
+    "german": "klappen",
+    "english": "succeed"
+  },
+  {
+    "german": "kunden",
+    "english": "customers"
+  },
+  {
+    "german": "kummern",
+    "english": "take care"
+  },
+  {
+    "german": "kriegen",
+    "english": "get"
+  },
+  {
+    "german": "mittel",
+    "english": "medium"
+  },
+  {
+    "german": "liegen",
+    "english": "lay"
+  },
+  {
+    "german": "liefern",
+    "english": "delivery"
+  },
+  {
+    "german": "leihen",
+    "english": "lend"
+  },
+  {
+    "german": "leicht",
+    "english": "light"
+  },
+  {
+    "german": "legen",
+    "english": "place"
+  },
+  {
+    "german": "löffel",
+    "english": "spoon"
+  },
+  {
+    "german": "loffel",
+    "english": "spoon"
+  },
+  {
+    "german": "mittel",
+    "english": "medium"
+  },
+  {
+    "german": "mindestens",
+    "english": "at least"
+  },
+  {
+    "german": "neblig",
+    "english": "foggy"
+  },
+  {
+    "german": "notwendig",
+    "english": "necessary"
+  },
+  {
+    "german": "nirgends",
+    "english": "nowhere"
+  },
+  {
+    "german": "genommen",
+    "english": "taken"
+  },
+  {
+    "german": "plötzlich",
+    "english": "suddenly"
+  },
+  {
+    "german": "plotzlich",
+    "english": "suddenly"
+  },
+  {
+    "german": "pflanzen",
+    "english": "plant"
+  },
+  {
+    "german": "reinigung",
+    "english": "cleaning"
+  },
+  {
+    "german": "reifen",
+    "english": "tires"
+  },
+  {
+    "german": "reden",
+    "english": "talk"
+  },
+  {
+    "german": "rechts",
+    "english": "right"
+  },
+  {
+    "german": "rätsel",
+    "english": "puzzle"
+  },
+  {
+    "german": "ratsel",
+    "english": "puzzle"
+  },
+  {
+    "german": "rathaus",
+    "english": "city ​​hall"
+  },
+  {
+    "german": "geraten",
+    "english": "devices"
+  },
+  {
+    "german": "rücken",
+    "english": "back"
+  },
+  {
+    "german": "rucken",
+    "english": "back"
+  },
+  {
+    "german": "gerochen",
+    "english": "smelled"
+  },
+  {
+    "german": "reiten",
+    "english": "ride"
+  },
+  {
+    "german": "schimpfen",
+    "english": "rant"
+  },
+  {
+    "german": "scharf",
+    "english": "sharp"
+  },
+  {
+    "german": "schalter",
+    "english": "switch"
+  },
+  {
+    "german": "sammeln",
+    "english": "collect"
+  },
+  {
+    "german": "schneiden",
+    "english": "cut"
+  },
+  {
+    "german": "schnee",
+    "english": "snow"
+  },
+  {
+    "german": "schmutzig",
+    "english": "dirty"
+  },
+  {
+    "german": "gewesen",
+    "english": "been"
+  },
+  {
+    "german": "wurdigkeit",
+    "english": "worthiness"
+  },
+  {
+    "german": "schwach",
+    "english": "weak"
+  },
+  {
+    "german": "sogar",
+    "english": "even"
+  },
+  {
+    "german": "stellen",
+    "english": "place"
+  },
+  {
+    "german": "gestorben",
+    "english": "died"
+  },
+  {
+    "german": "strand",
+    "english": "beach"
+  },
+  {
+    "german": "stuck",
+    "english": "piece"
+  },
+  {
+    "german": "süßigkeiten",
+    "english": "sweets"
+  },
+  {
+    "german": "Süßigkeiten",
+    "english": "sweets"
+  },
+  {
+    "german": "tafel",
+    "english": "blackboard"
+  },
+  {
+    "german": "tasche",
+    "english": "bag"
+  },
+  {
+    "german": "tauschten",
+    "english": "exchanged"
+  },
+  {
+    "german": "geteilt",
+    "english": "divided"
+  },
+  {
+    "german": "teilnehmen",
+    "english": "participate"
+  },
+  {
+    "german": "teller",
+    "english": "Plate"
+  },
+  {
+    "german": "topf",
+    "english": "pot"
+  },
+  {
+    "german": "torte",
+    "english": "cake"
+  },
+  {
+    "german": "getragen",
+    "english": "carried"
+  },
+  {
+    "german": "getraumt",
+    "english": "dreamed"
+  },
+  {
+    "german": "trocken",
+    "english": "dry"
+  },
+  {
+    "german": "uberall",
+    "english": "everywhere"
+  },
+  {
+    "german": "ubersetzt",
+    "english": "translated"
+  },
+  {
+    "german": "uberwiesen",
+    "english": "transferred"
+  },
+  {
+    "german": "uberwise",
+    "english": "uberwise"
+  },
+  {
+    "german": "umsteigen",
+    "english": "transfer"
+  },
+  {
+    "german": "umziehen",
+    "english": "move"
+  },
+  {
+    "german": "un",
+    "english": "U.N"
+  },
+  {
+    "german": "umzug",
+    "english": "move"
+  },
+  {
+    "german": "unterschreiben",
+    "english": "sign"
+  },
+  {
+    "german": "unternehmen",
+    "english": "company"
+  },
+  {
+    "german": "unterkunft",
+    "english": "accommodation"
+  },
+  {
+    "german": "unterhalten",
+    "english": "entertain"
+  },
+  {
+    "german": "unterschied",
+    "english": "difference"
+  },
+  {
+    "german": "unterwegs",
+    "english": "on the way"
+  },
+  {
+    "german": "verabredet",
+    "english": "have an appointment"
+  },
+  {
+    "german": "verbieten",
+    "english": "forbid"
+  },
+  {
+    "german": "verboten",
+    "english": "forbidden"
+  },
+  {
+    "german": "verdient",
+    "english": "earned"
+  },
+  {
+    "german": "verein",
+    "english": "association"
+  },
+  {
+    "german": "vertrag",
+    "english": "contract"
+  },
+  {
+    "german": "verschieben",
+    "english": "move"
+  },
+  {
+    "german": "verpasst",
+    "english": "lost"
+  },
+  {
+    "german": "vermieten",
+    "english": "rent"
+  },
+  {
+    "german": "verliebt",
+    "english": "in love"
+  },
+  {
+    "german": "verletzt",
+    "english": "injured"
+  },
+  {
+    "german": "vergleichen",
+    "english": "compare"
+  },
+  {
+    "german": "bereitet",
+    "english": "prepared"
+  },
+  {
+    "german": "vorher",
+    "english": "previously"
+  },
+  {
+    "german": "vorsichtig",
+    "english": "cautious"
+  },
+  {
+    "german": "vorgestellt",
+    "english": "presented"
+  },
+  {
+    "german": "wahr",
+    "english": "true"
+  },
+  {
+    "german": "wenigstens",
+    "english": "at least"
+  },
+  {
+    "german": "weich",
+    "english": "soft"
+  },
+  {
+    "german": "weiblich",
+    "english": "female"
+  },
+  {
+    "german": "wecken",
+    "english": "wake up"
+  },
+  {
+    "german": "reifen",
+    "english": "tires"
+  },
+  {
+    "german": "geworden",
+    "english": "become"
+  },
+  {
+    "german": "wettbewerb",
+    "english": "competition"
+  },
+  {
+    "german": "gewusst",
+    "english": "known"
+  },
+  {
+    "german": "gewohnt",
+    "english": "used"
+  },
+  {
+    "german": "wolke",
+    "english": "cloud"
+  },
+  {
+    "german": "gewollt",
+    "english": "wanted"
+  },
+  {
+    "german": "zeichnen",
+    "english": "draw"
+  },
+  {
+    "german": "zeitung",
+    "english": "newspaper"
+  },
+  {
+    "german": "zelt",
+    "english": "tent"
+  },
+  {
+    "german": "zettel",
+    "english": "note"
+  },
+  {
+    "german": "zeugnis",
+    "english": "transcript"
+  },
+  {
+    "german": "zuegnis",
+    "english": "transcript"
+  },
+  {
+    "german": "ziel",
+    "english": "goal"
+  },
+  {
+    "german": "zitrone",
+    "english": "lemon"
+  },
+  {
+    "german": "zucker",
+    "english": "sugar"
+  },
+  {
+    "german": "belugst",
+    "english": "lied to"
+  },
+  {
+    "german": "scheiss",
+    "english": "shit"
+  },
+  {
+    "german": "unterhalten über",
+    "english": "talk about"
+  },
+  {
+    "german": "zweiflisch",
+    "english": "doubtful"
+  },
+  {
+    "german": "verwendet",
+    "english": "used"
+  },
+  {
+    "german": "hitzig",
+    "english": "heated"
+  },
+  {
+    "german": "aufrichten",
+    "english": "erect"
+  },
+  {
+    "german": "verbringen",
+    "english": "spend"
+  },
+  {
+    "german": "bestehen",
+    "english": "consist"
+  },
+  {
+    "german": "ergebnisse",
+    "english": "results"
+  },
+  {
+    "german": "abgelegt",
+    "english": "filed"
+  },
+  {
+    "german": "bestanden",
+    "english": "passed"
+  },
+  {
+    "german": "abhängt",
+    "english": "depends"
+  },
+  {
+    "german": "abhangt",
+    "english": "depends"
+  },
+  {
+    "german": "abschluss",
+    "english": "diploma"
+  },
+  {
+    "german": "verlasst",
+    "english": "leaves"
+  },
+  {
+    "german": "unbedingt",
+    "english": "absolutely"
+  },
+  {
+    "german": "friseur",
+    "english": "barber"
+  },
+  {
+    "german": "schleifmaschine",
+    "english": "grinding machine"
+  },
+  {
+    "german": "drehen",
+    "english": "turn"
+  },
+  {
+    "german": "kraftfort",
+    "english": "strength continued"
+  },
+  {
+    "german": "was wir mit unserem Müll machen",
+    "english": "what we do with our garbage"
+  },
+  {
+    "german": "mull",
+    "english": "garbage"
+  },
+  {
+    "german": "verbinden",
+    "english": "connect"
+  },
+  {
+    "german": "strafe",
+    "english": "penalty"
+  },
+  {
+    "german": "begriffe",
+    "english": "concepts"
+  },
+  {
+    "german": "angesteller",
+    "english": "employee"
+  },
+  {
+    "german": "neugierig",
+    "english": "curious"
+  },
+  {
+    "german": "neugiereg",
+    "english": "curious"
+  },
+  {
+    "german": "nachdenkend",
+    "english": "thinking"
+  },
+  {
+    "german": "blutwerten",
+    "english": "blood values"
+  },
+  {
+    "german": "untersuchen",
+    "english": "investigate"
+  },
+  {
+    "german": "wande tapizieren streichen",
+    "english": "wallpaper walls, paint"
+  },
+  {
+    "german": "streichen",
+    "english": "cancel"
+  },
+  {
+    "german": "wandern",
+    "english": "hike"
+  },
+  {
+    "german": "tapezieren",
+    "english": "wallpaper"
+  },
+  {
+    "german": "regal",
+    "english": "shelf"
+  },
+  {
+    "german": "plotzlich",
+    "english": "suddenly"
+  },
+  {
+    "german": "getrent",
+    "english": "separated"
+  },
+  {
+    "german": "schreiner",
+    "english": "Carpenter"
+  },
+  {
+    "german": "unbedingt",
+    "english": "absolutely"
+  },
+  {
+    "german": "zeugnis",
+    "english": "transcript"
+  },
+  {
+    "german": "behältst",
+    "english": "keep"
+  },
+  {
+    "german": "behaltst",
+    "english": "keep"
+  },
+  {
+    "german": "ubungen",
+    "english": "exercises"
+  },
+  {
+    "german": "behalten",
+    "english": "keep"
+  },
+  {
+    "german": "verlassen",
+    "english": "leave"
+  },
+  {
+    "german": "heimat",
+    "english": "hometown"
+  },
+  {
+    "german": "gultig",
+    "english": "valid"
+  },
+  {
+    "german": "gehalt",
+    "english": "salary"
+  },
+  {
+    "german": "hinten",
+    "english": "rear"
+  },
+  {
+    "german": "aussteigen",
+    "english": "exit"
+  },
+  {
+    "german": "möbel",
+    "english": "furniture"
+  },
+  {
+    "german": "mobel",
+    "english": "furniture"
+  },
+  {
+    "german": "stellen",
+    "english": "place"
+  },
+  {
+    "german": "herd",
+    "english": "stove"
+  },
+  {
+    "german": "raus",
+    "english": "out"
+  },
+  {
+    "german": "heizung",
+    "english": "heating"
+  },
+  {
+    "german": "heimat",
+    "english": "hometown"
+  },
+  {
+    "german": "heft",
+    "english": "notebook"
+  },
+  {
+    "german": "haushalt",
+    "english": "household"
+  },
+  {
+    "german": "hals",
+    "english": "neck"
+  },
+  {
+    "german": "gültig",
+    "english": "valid"
+  },
+  {
+    "german": "gultig",
+    "english": "valid"
+  },
+  {
+    "german": "grillen",
+    "english": "grilling"
+  },
+  {
+    "german": "gleis",
+    "english": "track"
+  },
+  {
+    "german": "gewitter",
+    "english": "thunderstorm"
+  },
+  {
+    "german": "geschirrspüler",
+    "english": "dishwasher"
+  },
+  {
+    "german": "erzählst",
+    "english": "tell"
+  },
+  {
+    "german": "erzahlst",
+    "english": "tell"
+  },
+  {
+    "german": "geraten",
+    "english": "devices"
+  },
+  {
+    "german": "verdienen",
+    "english": "earn"
+  },
+  {
+    "german": "stuck",
+    "english": "piece"
+  },
+  {
+    "german": "genug",
+    "english": "enough"
+  },
+  {
+    "german": "geldbörse",
+    "english": "wallet"
+  },
+  {
+    "german": "geldborse",
+    "english": "wallet"
+  },
+  {
+    "german": "leihen",
+    "english": "lend"
+  },
+  {
+    "german": "gehalt",
+    "english": "salary"
+  },
+  {
+    "german": "gegenüber",
+    "english": "opposite"
+  },
+  {
+    "german": "gegenuber",
+    "english": "opposite"
+  },
+  {
+    "german": "gegentiel",
+    "english": "opposite"
+  },
+  {
+    "german": "fahr nicht gegen den baum",
+    "english": "Don't drive into the tree"
+  },
+  {
+    "german": "vorschlag",
+    "english": "suggestion"
+  },
+  {
+    "german": "geehrte",
+    "english": "Dear"
+  },
+  {
+    "german": "fundsachen",
+    "english": "lost property"
+  },
+  {
+    "german": "fundaschen",
+    "english": "fund bags"
+  },
+  {
+    "german": "schirm",
+    "english": "umbrella"
+  },
+  {
+    "german": "führung",
+    "english": "guide"
+  },
+  {
+    "german": "fuhrung",
+    "english": "guide"
+  },
+  {
+    "german": "führer",
+    "english": "leader"
+  },
+  {
+    "german": "fuhrer",
+    "english": "leader"
+  },
+  {
+    "german": "fühlen",
+    "english": "feel"
+  },
+  {
+    "german": "fuhlen",
+    "english": "feel"
+  },
+  {
+    "german": "früher",
+    "english": "earlier"
+  },
+  {
+    "german": "fruher",
+    "english": "earlier"
+  },
+  {
+    "german": "freiwillig",
+    "english": "voluntarily"
+  },
+  {
+    "german": "ausfüllen",
+    "english": "fill out"
+  },
+  {
+    "german": "ausfullen",
+    "english": "fill out"
+  },
+  {
+    "german": "buchen",
+    "english": "book"
+  },
+  {
+    "german": "abfahrt",
+    "english": "Departure"
+  },
+  {
+    "german": "zur",
+    "english": "to"
+  },
+  {
+    "german": "fach",
+    "english": "academic subject"
+  },
+  {
+    "german": "ermäßigung",
+    "english": "discount"
+  },
+  {
+    "german": "ermasigung",
+    "english": "discount"
+  },
+  {
+    "german": "arbeitserlaubnis",
+    "english": "work permit"
+  },
+  {
+    "german": "arbeitserlaubnix",
+    "english": "work permit"
+  },
+  {
+    "german": "erkaltet",
+    "english": "catches"
+  },
+  {
+    "german": "ziehen",
+    "english": "pull"
+  },
+  {
+    "german": "empfänger",
+    "english": "recipient"
+  },
+  {
+    "german": "empfanger",
+    "english": "recipient"
+  },
+  {
+    "german": "ep",
+    "english": "ep"
+  },
+  {
+    "german": "einzei",
+    "english": "single"
+  },
+  {
+    "german": "einverstanden",
+    "english": "agreed"
+  },
+  {
+    "german": "eintritt",
+    "english": "entry"
+  },
+  {
+    "german": "eintragen",
+    "english": "register"
+  },
+  {
+    "german": "einsteigen",
+    "english": "get in"
+  },
+  {
+    "german": "einpacken",
+    "english": "wrap up"
+  },
+  {
+    "german": "fehler",
+    "english": "mistake"
+  },
+  {
+    "german": "eilig",
+    "english": "hurry"
+  },
+  {
+    "german": "ehemann",
+    "english": "husband"
+  },
+  {
+    "german": "egal",
+    "english": "doesn't matter"
+  },
+  {
+    "german": "bade",
+    "english": "bathe"
+  },
+  {
+    "german": "bestätigen",
+    "english": "confirm"
+  },
+  {
+    "german": "bestatigen",
+    "english": "confirm"
+  },
+  {
+    "german": "drucken",
+    "english": "press"
+  },
+  {
+    "german": "dringend",
+    "english": "urgent"
+  },
+  {
+    "german": "doch",
+    "english": "but"
+  },
+  {
+    "german": "umsteigen",
+    "english": "transfer"
+  },
+  {
+    "german": "gedacht",
+    "english": "thought"
+  },
+  {
+    "german": "unterschrift",
+    "english": "signature"
+  },
+  {
+    "german": "gespeichert",
+    "english": "saved"
+  },
+  {
+    "german": "datei",
+    "english": "file"
+  },
+  {
+    "german": "dabei",
+    "english": "included"
+  },
+  {
+    "german": "erfahrung",
+    "english": "experience"
+  },
+  {
+    "german": "einzuladen",
+    "english": "to invite"
+  },
+  {
+    "german": "erwarten",
+    "english": "expect"
+  },
+  {
+    "german": "kaum",
+    "english": "barely"
+  },
+  {
+    "german": "bald",
+    "english": "soon"
+  },
+  {
+    "german": "verloren",
+    "english": "lost"
+  },
+  {
+    "german": "versteckt",
+    "english": "hidden"
+  },
+  {
+    "german": "gebüsch",
+    "english": "bushes"
+  },
+  {
+    "german": "gebusch",
+    "english": "bushes"
+  },
+  {
+    "german": "plötzlich",
+    "english": "suddenly"
+  },
+  {
+    "german": "plotzlich",
+    "english": "suddenly"
+  },
+  {
+    "german": "beschloss",
+    "english": "decided"
+  },
+  {
+    "german": "geräusch",
+    "english": "noise"
+  },
+  {
+    "german": "gerausch",
+    "english": "noise"
+  },
+  {
+    "german": "erwischen",
+    "english": "catch"
+  },
+  {
+    "german": "erledigen",
+    "english": "complete"
+  },
+  {
+    "german": "vorsatz",
+    "english": "intent"
+  },
+  {
+    "german": "vorsätzen",
+    "english": "resolutions"
+  },
+  {
+    "german": "vorsatzen",
+    "english": "resolutions"
+  },
+  {
+    "german": "bedecken",
+    "english": "cover"
+  },
+  {
+    "german": "genießen",
+    "english": "enjoy"
+  },
+  {
+    "german": "geniesen",
+    "english": "enjoy"
+  },
+  {
+    "german": "herrliche",
+    "english": "wonderful"
+  },
+  {
+    "german": "schnabel",
+    "english": "beak"
+  },
+  {
+    "german": "gewischt",
+    "english": "wiped"
+  },
+  {
+    "german": "gestrichen",
+    "english": "painted"
+  },
+  {
+    "german": "verschlossen",
+    "english": "locked"
+  },
+  {
+    "german": "klopf",
+    "english": "knock"
+  },
+  {
+    "german": "reinkommst",
+    "english": "come in"
+  },
+  {
+    "german": "gefertigt",
+    "english": "manufactured"
+  },
+  {
+    "german": "gemütlich",
+    "english": "cozy"
+  },
+  {
+    "german": "gemutlich",
+    "english": "cozy"
+  },
+  {
+    "german": "frischem",
+    "english": "fresh"
+  },
+  {
+    "german": "ausgewogen",
+    "english": "balanced"
+  },
+  {
+    "german": "bedient",
+    "english": "served"
+  },
+  {
+    "german": "bereiche",
+    "english": "areas"
+  },
+  {
+    "german": "bedeckt",
+    "english": "covered"
+  },
+  {
+    "german": "boden",
+    "english": "floor"
+  },
+  {
+    "german": "bier",
+    "english": "beer"
+  },
+  {
+    "german": "anziehen",
+    "english": "put on"
+  },
+  {
+    "german": "schummeln",
+    "english": "cheat"
+  },
+  {
+    "german": "besiegen",
+    "english": "defeat"
+  },
+  {
+    "german": "betrugs",
+    "english": "fraud"
+  },
+  {
+    "german": "bescheid",
+    "english": "notice"
+  },
+  {
+    "german": "besetzt",
+    "english": "occupied"
+  },
+  {
+    "german": "berichten",
+    "english": "to report"
+  },
+  {
+    "german": "zeitung",
+    "english": "newspaper"
+  },
+  {
+    "german": "berichten",
+    "english": "to report"
+  },
+  {
+    "german": "beraten",
+    "english": "advise"
+  },
+  {
+    "german": "aufzuge",
+    "english": "raised"
+  },
+  {
+    "german": "beliebt",
+    "english": "popular"
+  },
+  {
+    "german": "meinung",
+    "english": "opinion"
+  },
+  {
+    "german": "begründen",
+    "english": "justify"
+  },
+  {
+    "german": "begrunden",
+    "english": "justify"
+  },
+  {
+    "german": "baustelle",
+    "english": "construction site"
+  },
+  {
+    "german": "bauch",
+    "english": "belly"
+  },
+  {
+    "german": "gebastelt",
+    "english": "crafted"
+  },
+  {
+    "german": "bastel",
+    "english": "craft"
+  },
+  {
+    "german": "konto",
+    "english": "account"
+  },
+  {
+    "german": "bahnsteig",
+    "english": "platform"
+  },
+  {
+    "german": "baden",
+    "english": "bathe"
+  },
+  {
+    "german": "ausweis",
+    "english": "ID"
+  },
+  {
+    "german": "austragen",
+    "english": "deliver"
+  },
+  {
+    "german": "außerhalb",
+    "english": "outside"
+  },
+  {
+    "german": "auserhalb",
+    "english": "outside"
+  },
+  {
+    "german": "ausmachen",
+    "english": "turn off"
+  },
+  {
+    "german": "ausgegand",
+    "english": "went out"
+  },
+  {
+    "german": "gegange",
+    "english": "gone"
+  },
+  {
+    "german": "auskunft",
+    "english": "information"
+  },
+  {
+    "german": "ausfullen",
+    "english": "fill out"
+  },
+  {
+    "german": "aufgepasst",
+    "english": "watch out"
+  },
+  {
+    "german": "aufgepasss",
+    "english": "watch out"
+  },
+  {
+    "german": "wann hort ihr mit der arbeit auf",
+    "english": "When will you stop working?"
+  },
+  {
+    "german": "auf",
+    "english": "on"
+  },
+  {
+    "german": "aufhoren",
+    "english": "stop"
+  },
+  {
+    "german": "ärgern",
+    "english": "annoy"
+  },
+  {
+    "german": "argern",
+    "english": "annoy"
+  },
+  {
+    "german": "apparat",
+    "english": "apparatus"
+  },
+  {
+    "german": "gestrichen",
+    "english": "painted"
+  },
+  {
+    "german": "schonheit",
+    "english": "beauty"
+  },
+  {
+    "german": "geschadet",
+    "english": "harmed"
+  },
+  {
+    "german": "vorgetauscht",
+    "english": "faked"
+  },
+  {
+    "german": "verlassen",
+    "english": "leave"
+  },
+  {
+    "german": "starb",
+    "english": "died"
+  },
+  {
+    "german": "eheleben",
+    "english": "married life"
+  },
+  {
+    "german": "unterscheiden",
+    "english": "differentiate"
+  },
+  {
+    "german": "bisher",
+    "english": "until now"
+  },
+  {
+    "german": "eheleben",
+    "english": "married life"
+  },
+  {
+    "german": "erblindete",
+    "english": "went blind"
+  },
+  {
+    "german": "hautkrankheit",
+    "english": "skin disease"
+  },
+  {
+    "german": "verandurt",
+    "english": "altered"
+  },
+  {
+    "german": "farbige",
+    "english": "colored"
+  },
+  {
+    "german": "bere",
+    "english": "bere"
+  },
+  {
+    "german": "verschwenden",
+    "english": "waste"
+  },
+  {
+    "german": "eingriffe",
+    "english": "interventions"
+  },
+  {
+    "german": "zahlreiche",
+    "english": "numerous"
+  },
+  {
+    "german": "versorgung",
+    "english": "care"
+  },
+  {
+    "german": "brutt",
+    "english": "gross"
+  },
+  {
+    "german": "erreichen",
+    "english": "to reach"
+  },
+  {
+    "german": "geboren",
+    "english": "born"
+  },
+  {
+    "german": "erfahrung",
+    "english": "experience"
+  },
+  {
+    "german": "sterben",
+    "english": "die"
+  },
+  {
+    "german": "übertragen",
+    "english": "transmitted"
+  },
+  {
+    "german": "ubertragen",
+    "english": "transmitted"
+  },
+  {
+    "german": "bedürfnissen",
+    "english": "needs"
+  },
+  {
+    "german": "bedurfnissen",
+    "english": "needs"
+  },
+  {
+    "german": "nachhaltig",
+    "english": "sustainable"
+  },
+  {
+    "german": "verbindet",
+    "english": "connects"
+  },
+  {
+    "german": "gemerkt",
+    "english": "noticed"
+  },
+  {
+    "german": "begriff",
+    "english": "expression"
+  },
+  {
+    "german": "verantwortlich",
+    "english": "responsible"
+  },
+  {
+    "german": "erzahle",
+    "english": "tell"
+  },
+  {
+    "german": "anbieten",
+    "english": "offer"
+  },
+  {
+    "german": "schluss",
+    "english": "ending"
+  },
+  {
+    "german": "umsteigen",
+    "english": "transfer"
+  },
+  {
+    "german": "verdienen",
+    "english": "earn"
+  },
+  {
+    "german": "auftrage",
+    "english": "assignments"
+  },
+  {
+    "german": "zufrieden",
+    "english": "satisfied"
+  },
+  {
+    "german": "wechseln",
+    "english": "change"
+  },
+  {
+    "german": "versicherung",
+    "english": "insurance"
+  },
+  {
+    "german": "absagen",
+    "english": "cancel"
+  },
+  {
+    "german": "vorbereiten",
+    "english": "prepare"
+  },
+  {
+    "german": "rechtzeitig",
+    "english": "punctual"
+  },
+  {
+    "german": "geärgert",
+    "english": "annoyed"
+  },
+  {
+    "german": "geargert",
+    "english": "annoyed"
+  },
+  {
+    "german": "liebe",
+    "english": "love"
+  },
+  {
+    "german": "leben",
+    "english": "life"
+  },
+  {
+    "german": "umfragen",
+    "english": "Survey"
+  },
+  {
+    "german": "vorteile nachteile",
+    "english": "advantages disadvantages"
+  },
+  {
+    "german": "nachteil",
+    "english": "disadvantage"
+  },
+  {
+    "german": "weiter",
+    "english": "further"
+  },
+  {
+    "german": "abschnitt",
+    "english": "section"
+  },
+  {
+    "german": "anstrengend",
+    "english": "stressful"
+  },
+  {
+    "german": "ausprobieren",
+    "english": "try"
+  },
+  {
+    "german": "merken sich",
+    "english": "remember"
+  },
+  {
+    "german": "beeilen",
+    "english": "hurry up"
+  },
+  {
+    "german": "ausgeruht",
+    "english": "rested"
+  },
+  {
+    "german": "peinlich",
+    "english": "awkward"
+  },
+  {
+    "german": "aufgeräumt",
+    "english": "cleaned up"
+  },
+  {
+    "german": "aufgeraumt",
+    "english": "cleaned up"
+  },
+  {
+    "german": "abonnieren",
+    "english": "subscribe to"
+  },
+  {
+    "german": "entscheiden",
+    "english": "decide"
+  },
+  {
+    "german": "aufsparen",
+    "english": "save up"
+  },
+  {
+    "german": "bewerten",
+    "english": "evaluate"
+  },
+  {
+    "german": "unbedingt",
+    "english": "absolutely"
+  },
+  {
+    "german": "unbedenkt",
+    "english": "unconcerned"
+  },
+  {
+    "german": "unbedingt",
+    "english": "absolutely"
+  },
+  {
+    "german": "verfügbar",
+    "english": "available"
+  },
+  {
+    "german": "verugbar",
+    "english": "available"
+  },
+  {
+    "german": "metaebenen",
+    "english": "meta levels"
+  },
+  {
+    "german": "einstieg",
+    "english": "Started"
+  },
+  {
+    "german": "ausgewählt",
+    "english": "selected"
+  },
+  {
+    "german": "ausgewahlt",
+    "english": "selected"
+  },
+  {
+    "german": "nahebringen",
+    "english": "bring close"
+  },
+  {
+    "german": "überhaupt",
+    "english": "at all"
+  },
+  {
+    "german": "uberhaupt",
+    "english": "at all"
+  },
+  {
+    "german": "überlegen",
+    "english": "superior"
+  },
+  {
+    "german": "uberlegen",
+    "english": "superior"
+  },
+  {
+    "german": "sendung",
+    "english": "broadcast"
+  },
+  {
+    "german": "geguckt",
+    "english": "watched"
+  },
+  {
+    "german": "vorbeigegangen",
+    "english": "passed by"
+  },
+  {
+    "german": "mauer",
+    "english": "wall"
+  },
+  {
+    "german": "dadurch",
+    "english": "through this"
+  },
+  {
+    "german": "irgendwie",
+    "english": "somehow"
+  },
+  {
+    "german": "ansagen",
+    "english": "announce"
+  },
+  {
+    "german": "einleitungen",
+    "english": "introductions"
+  },
+  {
+    "german": "vorschlagen",
+    "english": "suggest"
+  },
+  {
+    "german": "einreichungen",
+    "english": "submissions"
+  },
+  {
+    "german": "abstand",
+    "english": "distance"
+  },
+  {
+    "german": "unterstützt",
+    "english": "supports"
+  },
+  {
+    "german": "unterstutzt",
+    "english": "supports"
+  },
+  {
+    "german": "anmachen",
+    "english": "to turn on"
+  },
+  {
+    "german": "nachgucken",
+    "english": "check"
+  },
+  {
+    "german": "erwähnen",
+    "english": "mention"
+  },
+  {
+    "german": "erwahnen",
+    "english": "mention"
+  },
+  {
+    "german": "aufgeregt",
+    "english": "upset"
+  },
+  {
+    "german": "unterhalten",
+    "english": "entertain"
+  },
+  {
+    "german": "überhaupt",
+    "english": "at all"
+  },
+  {
+    "german": "uberhaupt",
+    "english": "at all"
+  },
+  {
+    "german": "herausgefunden",
+    "english": "found out"
+  },
+  {
+    "german": "aufgenommen",
+    "english": "recorded"
+  },
+  {
+    "german": "realisiert",
+    "english": "realized"
+  },
+  {
+    "german": "unfallfrei",
+    "english": "accident free"
+  },
+  {
+    "german": "hinterlassen",
+    "english": "leave behind"
+  },
+  {
+    "german": "schimpfen",
+    "english": "rant"
+  },
+  {
+    "german": "erfahrung",
+    "english": "experience"
+  },
+  {
+    "german": "trösten",
+    "english": "console"
+  },
+  {
+    "german": "trosten",
+    "english": "console"
+  },
+  {
+    "german": "bestanden",
+    "english": "passed"
+  },
+  {
+    "german": "streiten",
+    "english": "argue"
+  },
+  {
+    "german": "wechseln",
+    "english": "change"
+  },
+  {
+    "german": "riesig",
+    "english": "gigantic"
+  },
+  {
+    "german": "rieseg",
+    "english": "huge"
+  },
+  {
+    "german": "verdienen",
+    "english": "earn"
+  },
+  {
+    "german": "gehören",
+    "english": "belong"
+  },
+  {
+    "german": "gehoren",
+    "english": "belong"
+  },
+  {
+    "german": "saarbrücken",
+    "english": "Saarbrücken"
+  },
+  {
+    "german": "anschluss",
+    "english": "connection"
+  },
+  {
+    "german": "fahrplan",
+    "english": "timetable"
+  },
+  {
+    "german": "ankunft",
+    "english": "arrival"
+  },
+  {
+    "german": "der unterricht fangt gleich an",
+    "english": "the lesson is about to start"
+  },
+  {
+    "german": "gleich",
+    "english": "even"
+  },
+  {
+    "german": "geändert",
+    "english": "changed"
+  },
+  {
+    "german": "geandert",
+    "english": "changed"
+  },
+  {
+    "german": "mantel",
+    "english": "a coat"
+  },
+  {
+    "german": "stellen",
+    "english": "place"
+  },
+  {
+    "german": "anbieten",
+    "english": "offer"
+  },
+  {
+    "german": "licht",
+    "english": "light"
+  },
+  {
+    "german": "kreuzung",
+    "english": "crossing"
+  },
+  {
+    "german": "als",
+    "english": "as"
+  },
+  {
+    "german": "schaffen",
+    "english": "create"
+  },
+  {
+    "german": "verkehr",
+    "english": "traffic"
+  },
+  {
+    "german": "türen",
+    "english": "doors"
+  },
+  {
+    "german": "turen",
+    "english": "doors"
+  },
+  {
+    "german": "gleis",
+    "english": "track"
+  },
+  {
+    "german": "achtung",
+    "english": "danger"
+  },
+  {
+    "german": "Hast du die Tür abgeschlossen?",
+    "english": "Did you lock the door?"
+  },
+  {
+    "german": "sachen",
+    "english": "things"
+  },
+  {
+    "german": "zufrieden",
+    "english": "satisfied"
+  },
+  {
+    "german": "damit",
+    "english": "with it"
+  },
+  {
+    "german": "ostern",
+    "english": "Easter"
+  },
+  {
+    "german": "karneval",
+    "english": "carnival"
+  },
+  {
+    "german": "klassenfahrt",
+    "english": "school trip"
+  },
+  {
+    "german": "friseur",
+    "english": "barber"
+  },
+  {
+    "german": "angestellter",
+    "english": "employee"
+  },
+  {
+    "german": "angesteller",
+    "english": "employee"
+  },
+  {
+    "german": "durchsage",
+    "english": "announcement"
+  },
+  {
+    "german": "verletzt",
+    "english": "injured"
+  },
+  {
+    "german": "vergeben",
+    "english": "forgive"
+  },
+  {
+    "german": "rettete",
+    "english": "saved"
+  },
+  {
+    "german": "furchtbare",
+    "english": "terrible"
+  },
+  {
+    "german": "verandert",
+    "english": "changed"
+  },
+  {
+    "german": "sei still",
+    "english": "be quiet"
+  },
+  {
+    "german": "ansteigen",
+    "english": "increase"
+  },
+  {
+    "german": "gestrichen voll",
+    "english": "painted full"
+  },
+  {
+    "german": "schnauze",
+    "english": "snout"
+  },
+  {
+    "german": "egal",
+    "english": "doesn't matter"
+  },
+  {
+    "german": "abschiebung",
+    "english": "deportation"
+  },
+  {
+    "german": "behindert",
+    "english": "disabled"
+  },
+  {
+    "german": "sondern",
+    "english": "rather"
+  },
+  {
+    "german": "uberlebt",
+    "english": "survived"
+  },
+  {
+    "german": "schatzes",
+    "english": "darling"
+  },
+  {
+    "german": "konkurs",
+    "english": "bankruptcy"
+  },
+  {
+    "german": "habeck",
+    "english": "Habeck"
+  },
+  {
+    "german": "rauswerfen",
+    "english": "kick out"
+  },
+  {
+    "german": "einfluss",
+    "english": "influence"
+  },
+  {
+    "german": "sorgen",
+    "english": "care for"
+  },
+  {
+    "german": "überhaupt",
+    "english": "at all"
+  },
+  {
+    "german": "uberhaupt",
+    "english": "at all"
+  },
+  {
+    "german": "mitglieder",
+    "english": "members"
+  },
+  {
+    "german": "dümmste",
+    "english": "stupidest"
+  },
+  {
+    "german": "dummste",
+    "english": "stupidest"
+  },
+  {
+    "german": "regierung",
+    "english": "government"
+  },
+  {
+    "german": "sondern",
+    "english": "rather"
+  },
+  {
+    "german": "deshalb",
+    "english": "for this reason"
+  },
+  {
+    "german": "hoher",
+    "english": "higher"
+  },
+  {
+    "german": "angesehen",
+    "english": "viewed"
+  },
+  {
+    "german": "abschluss",
+    "english": "diploma"
+  },
+  {
+    "german": "henker",
+    "english": "hangman"
+  },
+  {
+    "german": "dazugeben",
+    "english": "add"
+  },
+  {
+    "german": "irgendwas",
+    "english": "anything"
+  },
+  {
+    "german": "freiwillig",
+    "english": "voluntarily"
+  },
+  {
+    "german": "melde",
+    "english": "report"
+  },
+  {
+    "german": "erlebst",
+    "english": "experienced"
+  },
+  {
+    "german": "verdammte",
+    "english": "damn"
+  },
+  {
+    "german": "uberhaupt",
+    "english": "at all"
+  },
+  {
+    "german": "auswählen",
+    "english": "choose"
+  },
+  {
+    "german": "auswahlen",
+    "english": "choose"
+  },
+  {
+    "german": "bestimmen",
+    "english": "determine"
+  },
+  {
+    "german": "zugeben",
+    "english": "admit"
+  },
+  {
+    "german": "vergleichen",
+    "english": "compare"
+  },
+  {
+    "german": "verruckt",
+    "english": "crazy"
+  },
+  {
+    "german": "dankbarkeit",
+    "english": "gratitude"
+  },
+  {
+    "german": "zufall",
+    "english": "coincidence"
+  },
+  {
+    "german": "mitglieder",
+    "english": "members"
+  },
+  {
+    "german": "verweisen",
+    "english": "refer"
+  },
+  {
+    "german": "verwi",
+    "english": "mis"
+  },
+  {
+    "german": "stellen",
+    "english": "place"
+  },
+  {
+    "german": "verfugung stellen",
+    "english": "provide"
+  },
+  {
+    "german": "nachgucken",
+    "english": "check"
+  },
+  {
+    "german": "nachguk",
+    "english": "nachguk"
+  },
+  {
+    "german": "unbedingt",
+    "english": "absolutely"
+  },
+  {
+    "german": "ständig",
+    "english": "constant"
+  },
+  {
+    "german": "standig",
+    "english": "constant"
+  },
+  {
+    "german": "umgeben",
+    "english": "surround"
+  },
+  {
+    "german": "betrachten",
+    "english": "regard"
+  },
+  {
+    "german": "uberhaupt",
+    "english": "at all"
+  },
+  {
+    "german": "herausgefunden",
+    "english": "found out"
+  },
+  {
+    "german": "vorhaben",
+    "english": "plan"
+  },
+  {
+    "german": "überlegen",
+    "english": "superior"
+  },
+  {
+    "german": "uberlegen",
+    "english": "superior"
+  },
+  {
+    "german": "trotzdem",
+    "english": "despite it"
+  },
+  {
+    "german": "dazugekommen",
+    "english": "added"
+  },
+  {
+    "german": "ehrlich",
+    "english": "honest"
+  },
+  {
+    "german": "uben",
+    "english": "practice"
+  },
+  {
+    "german": "korken mitgebracht",
+    "english": "brought cork"
+  },
+  {
+    "german": "korken mitgeba",
+    "english": "cork included"
+  },
+  {
+    "german": "abspielen",
+    "english": "play"
+  },
+  {
+    "german": "anstrengend",
+    "english": "stressful"
+  },
+  {
+    "german": "besorgen",
+    "english": "obtain"
+  },
+  {
+    "german": "erleichtert",
+    "english": "relieved"
+  },
+  {
+    "german": "auffällig",
+    "english": "noticeable"
+  },
+  {
+    "german": "auffallig",
+    "english": "noticeable"
+  },
+  {
+    "german": "erinnere",
+    "english": "remember"
+  },
+  {
+    "german": "verschwunden",
+    "english": "disappeared"
+  },
+  {
+    "german": "fernstudium",
+    "english": "distance learning"
+  },
+  {
+    "german": "studium",
+    "english": "studies"
+  },
+  {
+    "german": "ablauf gleich",
+    "english": "process the same"
+  },
+  {
+    "german": "gleich",
+    "english": "even"
+  },
+  {
+    "german": "fleich",
+    "english": "meat"
+  },
+  {
+    "german": "ablauf",
+    "english": "process"
+  },
+  {
+    "german": "ruhig",
+    "english": "quiet"
+  },
+  {
+    "german": "arbeitsstelle",
+    "english": "place of work"
+  },
+  {
+    "german": "arbeitstelle",
+    "english": "place of work"
+  },
+  {
+    "german": "chef",
+    "english": "boss"
+  },
+  {
+    "german": "entscheidung",
+    "english": "decision"
+  },
+  {
+    "german": "entschie",
+    "english": "decided"
+  },
+  {
+    "german": "aufgeregt",
+    "english": "upset"
+  },
+  {
+    "german": "schlaflos",
+    "english": "sleepless"
+  },
+  {
+    "german": "scha",
+    "english": "sha"
+  },
+  {
+    "german": "ungeduldig",
+    "english": "impatient"
+  },
+  {
+    "german": "hinauf",
+    "english": "up"
+  },
+  {
+    "german": "erlaubnis",
+    "english": "permission"
+  },
+  {
+    "german": "ausweis",
+    "english": "ID"
+  },
+  {
+    "german": "impfen",
+    "english": "vaccinate"
+  },
+  {
+    "german": "geimpft",
+    "english": "vaccinated"
+  },
+  {
+    "german": "geschutzt",
+    "english": "protected"
+  },
+  {
+    "german": "genießen",
+    "english": "enjoy"
+  },
+  {
+    "german": "geniesen",
+    "english": "enjoy"
+  },
+  {
+    "german": "entschieden",
+    "english": "decided"
+  },
+  {
+    "german": "entschiden",
+    "english": "decided"
+  },
+  {
+    "german": "riecht",
+    "english": "smells"
+  },
+  {
+    "german": "brezel",
+    "english": "pretzel"
+  },
+  {
+    "german": "das bis",
+    "english": "that until"
+  },
+  {
+    "german": "zart",
+    "english": "tender"
+  },
+  {
+    "german": "schwung",
+    "english": "momentum"
+  },
+  {
+    "german": "donnerstag",
+    "english": "Thursday"
+  },
+  {
+    "german": "blitz",
+    "english": "lightning"
+  },
+  {
+    "german": "bliu",
+    "english": "bliu"
+  },
+  {
+    "german": "regenbogen",
+    "english": "rainbow"
+  },
+  {
+    "german": "traumtag",
+    "english": "Dream day"
+  },
+  {
+    "german": "bereiten",
+    "english": "prepare"
+  },
+  {
+    "german": "überrascht",
+    "english": "surprised"
+  },
+  {
+    "german": "uberrascht",
+    "english": "surprised"
+  },
+  {
+    "german": "neuigkeit",
+    "english": "news"
+  },
+  {
+    "german": "sogar",
+    "english": "even"
+  },
+  {
+    "german": "aufgaben",
+    "english": "tasks"
+  },
+  {
+    "german": "gemeinsam",
+    "english": "together"
+  },
+  {
+    "german": "deshalb",
+    "english": "for this reason"
+  },
+  {
+    "german": "regeln",
+    "english": "regulate"
+  },
+  {
+    "german": "beizubringen",
+    "english": "to teach"
+  },
+  {
+    "german": "uberraschen",
+    "english": "to surprise"
+  },
+  {
+    "german": "überraschen",
+    "english": "to surprise"
+  },
+  {
+    "german": "uberraschen",
+    "english": "to surprise"
+  },
+  {
+    "german": "erziehen",
+    "english": "educate"
+  },
+  {
+    "german": "hinschauen",
+    "english": "look"
+  },
+  {
+    "german": "entstanden",
+    "english": "developed"
+  },
+  {
+    "german": "eizellen",
+    "english": "ova"
+  },
+  {
+    "german": "verschiedenen",
+    "english": "different"
+  },
+  {
+    "german": "verschidenen",
+    "english": "different"
+  },
+  {
+    "german": "ähnlich",
+    "english": "similar"
+  },
+  {
+    "german": "ahnlich",
+    "english": "similar"
+  },
+  {
+    "german": "schwanger",
+    "english": "pregnant"
+  },
+  {
+    "german": "gleichzeitig",
+    "english": "at the same time"
+  },
+  {
+    "german": "gleichzeig",
+    "english": "at the same time"
+  },
+  {
+    "german": "erschrickt",
+    "english": "frightened"
+  },
+  {
+    "german": "miteinander",
+    "english": "each other"
+  },
+  {
+    "german": "zwillinge",
+    "english": "Twins"
+  },
+  {
+    "german": "bald",
+    "english": "soon"
+  },
+  {
+    "german": "vorbereitet",
+    "english": "prepared"
+  },
+  {
+    "german": "gemeinsam",
+    "english": "together"
+  },
+  {
+    "german": "begrust",
+    "english": "greeted"
+  },
+  {
+    "german": "schüleraustausch",
+    "english": "student exchange"
+  },
+  {
+    "german": "schuleraustauch",
+    "english": "student exchange"
+  },
+  {
+    "german": "fangt",
+    "english": "catches"
+  },
+  {
+    "german": "zieht",
+    "english": "pulls"
+  },
+  {
+    "german": "genießen",
+    "english": "enjoy"
+  },
+  {
+    "german": "geniesen",
+    "english": "enjoy"
+  },
+  {
+    "german": "staubig",
+    "english": "dusty"
+  },
+  {
+    "german": "bereiten",
+    "english": "prepare"
+  },
+  {
+    "german": "wolken",
+    "english": "clouds"
+  },
+  {
+    "german": "wok",
+    "english": "wok"
+  },
+  {
+    "german": "verabschiede",
+    "english": "say goodbye"
+  },
+  {
+    "german": "verabschide",
+    "english": "say goodbye"
+  },
+  {
+    "german": "überlege",
+    "english": "think"
+  },
+  {
+    "german": "uberlege",
+    "english": "think"
+  },
+  {
+    "german": "brav",
+    "english": "well-behaved"
+  },
+  {
+    "german": "ba",
+    "english": "ba"
+  },
+  {
+    "german": "verabredet",
+    "english": "have an appointment"
+  },
+  {
+    "german": "ehemann",
+    "english": "husband"
+  },
+  {
+    "german": "genauso",
+    "english": "just as"
+  },
+  {
+    "german": "gehört",
+    "english": "heard"
+  },
+  {
+    "german": "gehort",
+    "english": "heard"
+  },
+  {
+    "german": "eilig",
+    "english": "hurry"
+  },
+  {
+    "german": "egal",
+    "english": "doesn't matter"
+  },
+  {
+    "german": "schneiden",
+    "english": "cut"
+  },
+  {
+    "german": "erwarten",
+    "english": "expect"
+  },
+  {
+    "german": "ärgelich",
+    "english": "annoying"
+  },
+  {
+    "german": "ausweis",
+    "english": "ID"
+  },
+  {
+    "german": "hinlegen",
+    "english": "lie down"
+  },
+  {
+    "german": "erschöpft",
+    "english": "exhausted"
+  },
+  {
+    "german": "atmen",
+    "english": "breathe"
+  },
+  {
+    "german": "gleiche",
+    "english": "same"
+  },
+  {
+    "german": "bucherregal",
+    "english": "bookshelf"
+  },
+  {
+    "german": "gemessen",
+    "english": "measured"
+  },
+  {
+    "german": "blutdruck",
+    "english": "blood pressure"
+  },
+  {
+    "german": "gegangen",
+    "english": "gone"
+  },
+  {
+    "german": "vorsorge",
+    "english": "prevention"
+  },
+  {
+    "german": "gelaufen",
+    "english": "ran"
+  },
+  {
+    "german": "erwähnt",
+    "english": "mentioned"
+  },
+  {
+    "german": "nebenwirkungen",
+    "english": "side effects"
+  },
+  {
+    "german": "ernahre",
+    "english": "nourish"
+  },
+  {
+    "german": "ausgewogen",
+    "english": "balanced"
+  },
+  {
+    "german": "bevorzuge",
+    "english": "prefer"
+  },
+  {
+    "german": "kisten",
+    "english": "boxes"
+  },
+  {
+    "german": "beklage",
+    "english": "complain"
+  },
+  {
+    "german": "Teller",
+    "english": "Plate"
+  },
+  {
+    "german": "holen",
+    "english": "fetch"
+  },
+  {
+    "german": "decken",
+    "english": "cover"
+  },
+  {
+    "german": "gefährlich",
+    "english": "dangerous"
+  },
+  {
+    "german": "vorbei",
+    "english": "over"
+  },
+  {
+    "german": "erwarten",
+    "english": "expect"
+  },
+  {
+    "german": "kaum",
+    "english": "barely"
+  },
+  {
+    "german": "münzen",
+    "english": "coins"
+  },
+  {
+    "german": "rücken",
+    "english": "back"
+  },
+  {
+    "german": "geniese",
+    "english": "enjoy"
+  },
+  {
+    "german": "absicht",
+    "english": "intention"
+  },
+  {
+    "german": "einsam",
+    "english": "lonely"
+  },
+  {
+    "german": "wohl",
+    "english": "probably"
+  },
+  {
+    "german": "gemeint",
+    "english": "meant"
+  },
+  {
+    "german": "vergrößert",
+    "english": "enlarged"
+  },
+  {
+    "german": "vergrosert",
+    "english": "enlarged"
+  },
+  {
+    "german": "tauschen",
+    "english": "to exchange"
+  },
+  {
+    "german": "nass",
+    "english": "wet"
+  },
+  {
+    "german": "gelogen",
+    "english": "lied"
+  },
+  {
+    "german": "schuldig",
+    "english": "guilty"
+  },
+  {
+    "german": "leisten",
+    "english": "afford"
+  },
+  {
+    "german": "pflege",
+    "english": "care"
+  },
+  {
+    "german": "vorschlagen",
+    "english": "suggest"
+  },
+  {
+    "german": "anziehen",
+    "english": "put on"
+  },
+  {
+    "german": "anzei",
+    "english": "display"
+  },
+  {
+    "german": "unfall",
+    "english": "accident"
+  },
+  {
+    "german": "vergangen",
+    "english": "past"
+  },
+  {
+    "german": "gelegenheit",
+    "english": "opportunity"
+  },
+  {
+    "german": "wahrzeit",
+    "english": "true time"
+  },
+  {
+    "german": "wha",
+    "english": "wha"
+  },
+  {
+    "german": "vertrauen",
+    "english": "trust"
+  },
+  {
+    "german": "wahrheit",
+    "english": "truth"
+  },
+  {
+    "german": "berge",
+    "english": "mountains"
+  },
+  {
+    "german": "versprechen",
+    "english": "promise"
+  },
+  {
+    "german": "vorstellen können",
+    "english": "able to imagine"
+  },
+  {
+    "german": "gewesen",
+    "english": "been"
+  },
+  {
+    "german": "inzwischen",
+    "english": "in the meantime"
+  },
+  {
+    "german": "wahl",
+    "english": "choice"
+  },
+  {
+    "german": "wahr",
+    "english": "true"
+  },
+  {
+    "german": "ausburgerin",
+    "english": "Ausburgerin"
+  },
+  {
+    "german": "versichere",
+    "english": "insure"
+  },
+  {
+    "german": "bedenke",
+    "english": "consider"
+  },
+  {
+    "german": "aufzugeben",
+    "english": "to give up"
+  },
+  {
+    "german": "leicht",
+    "english": "light"
+  },
+  {
+    "german": "bewusst",
+    "english": "consciously"
+  },
+  {
+    "german": "lugt",
+    "english": "peeps"
+  },
+  {
+    "german": "uberzogen",
+    "english": "covered"
+  },
+  {
+    "german": "kriegen",
+    "english": "get"
+  },
+  {
+    "german": "kopf",
+    "english": "head"
+  },
+  {
+    "german": "konto",
+    "english": "account"
+  },
+  {
+    "german": "heimat",
+    "english": "hometown"
+  },
+  {
+    "german": "hochzeit",
+    "english": "wedding"
+  },
+  {
+    "german": "herd",
+    "english": "stove"
+  },
+  {
+    "german": "günstig",
+    "english": "cheap"
+  },
+  {
+    "german": "gunstig",
+    "english": "cheap"
+  },
+  {
+    "german": "gültig",
+    "english": "valid"
+  },
+  {
+    "german": "gultig",
+    "english": "valid"
+  },
+  {
+    "german": "gratulieren",
+    "english": "congratulate"
+  },
+  {
+    "german": "gewicht",
+    "english": "weight"
+  },
+  {
+    "german": "gestorben",
+    "english": "died"
+  },
+  {
+    "german": "gespräch",
+    "english": "conversation"
+  },
+  {
+    "german": "gesprach",
+    "english": "conversation"
+  },
+  {
+    "german": "losung",
+    "english": "solution"
+  },
+  {
+    "german": "gast",
+    "english": "guest"
+  },
+  {
+    "german": "gasat",
+    "english": "gasat"
+  },
+  {
+    "german": "führung durch",
+    "english": "tour through"
+  },
+  {
+    "german": "fuhrung durch",
+    "english": "tour through"
+  },
+  {
+    "german": "durch",
+    "english": "through"
+  },
+  {
+    "german": "frühen waren mich",
+    "english": "early ones were me"
+  },
+  {
+    "german": "frühenwa",
+    "english": "earlywa"
+  },
+  {
+    "german": "fruhen",
+    "english": "early"
+  },
+  {
+    "german": "fremd",
+    "english": "foreign"
+  },
+  {
+    "german": "ausfüllen",
+    "english": "fill out"
+  },
+  {
+    "german": "ausfullen",
+    "english": "fill out"
+  },
+  {
+    "german": "fehler",
+    "english": "mistake"
+  },
+  {
+    "german": "feiern",
+    "english": "celebrate"
+  },
+  {
+    "german": "schätzen",
+    "english": "treasure"
+  },
+  {
+    "german": "schatzen",
+    "english": "treasure"
+  },
+  {
+    "german": "begrenzt",
+    "english": "limited"
+  },
+  {
+    "german": "bewahren",
+    "english": "preserve"
+  },
+  {
+    "german": "erinnerungen",
+    "english": "memories"
+  },
+  {
+    "german": "entkommen",
+    "english": "escape"
+  },
+  {
+    "german": "nerven",
+    "english": "annoy"
+  },
+  {
+    "german": "guckst",
+    "english": "look"
+  },
+  {
+    "german": "neben",
+    "english": "next to"
+  },
+  {
+    "german": "verbietet",
+    "english": "prohibits"
+  },
+  {
+    "german": "verarschen",
+    "english": "kidding"
+  },
+  {
+    "german": "gefragt",
+    "english": "asked"
+  },
+  {
+    "german": "aufpasst",
+    "english": "pay attention"
+  },
+  {
+    "german": "überlegt",
+    "english": "considered"
+  },
+  {
+    "german": "uberlegt",
+    "english": "considered"
+  },
+  {
+    "german": "vergolt",
+    "english": "repaid"
+  },
+  {
+    "german": "erreichen",
+    "english": "to reach"
+  },
+  {
+    "german": "einteilen",
+    "english": "organize"
+  },
+  {
+    "german": "eintel",
+    "english": "single"
+  },
+  {
+    "german": "tatsache",
+    "english": "fact"
+  },
+  {
+    "german": "schlafst",
+    "english": "sleeping"
+  },
+  {
+    "german": "bezweifle",
+    "english": "doubt"
+  },
+  {
+    "german": "genommen",
+    "english": "taken"
+  },
+  {
+    "german": "silberteller",
+    "english": "silver plate"
+  },
+  {
+    "german": "gedanken",
+    "english": "thoughts"
+  },
+  {
+    "german": "steckte",
+    "english": "stuck"
+  },
+  {
+    "german": "beziehung",
+    "english": "relationship"
+  },
+  {
+    "german": "beobachtete",
+    "english": "observed"
+  },
+  {
+    "german": "hubsch",
+    "english": "pretty"
+  },
+  {
+    "german": "hinzu bemerken",
+    "english": "add notice"
+  },
+  {
+    "german": "hinzubemerken",
+    "english": "to note"
+  },
+  {
+    "german": "während",
+    "english": "while"
+  },
+  {
+    "german": "wahrend",
+    "english": "while"
+  },
+  {
+    "german": "sofort",
+    "english": "immediately"
+  },
+  {
+    "german": "tauschen",
+    "english": "to exchange"
+  },
+  {
+    "german": "haltestelle",
+    "english": "bus stop"
+  },
+  {
+    "german": "erwaschene",
+    "english": "adult"
+  },
+  {
+    "german": "vorstellen können",
+    "english": "able to imagine"
+  },
+  {
+    "german": "kleinanzeigen",
+    "english": "classifieds"
+  },
+  {
+    "german": "erwaschene",
+    "english": "adult"
+  },
+  {
+    "german": "verfügbar",
+    "english": "available"
+  },
+  {
+    "german": "teilnehmen",
+    "english": "participate"
+  },
+  {
+    "german": "neidisch auf",
+    "english": "jealous of"
+  },
+  {
+    "german": "vorstellen",
+    "english": "introduce"
+  },
+  {
+    "german": "schweißen",
+    "english": "welding"
+  },
+  {
+    "german": "überhaupt",
+    "english": "at all"
+  },
+  {
+    "german": "heraus",
+    "english": "out of here"
+  },
+  {
+    "german": "verfugbar",
+    "english": "available"
+  },
+  {
+    "german": "anbieten",
+    "english": "offer"
+  },
+  {
+    "german": "wahr",
+    "english": "true"
+  },
+  {
+    "german": "bereit",
+    "english": "ready"
+  },
+  {
+    "german": "ertragen",
+    "english": "bear"
+  },
+  {
+    "german": "treiben",
+    "english": "to drive"
+  },
+  {
+    "german": "gewalt",
+    "english": "force"
+  },
+  {
+    "german": "abhauen",
+    "english": "run away"
+  },
+  {
+    "german": "zuwinke",
+    "english": "wave"
+  },
+  {
+    "german": "eingabe",
+    "english": "input"
+  },
+  {
+    "german": "überraschung",
+    "english": "surprise"
+  },
+  {
+    "german": "uberraschung",
+    "english": "surprise"
+  },
+  {
+    "german": "riesige",
+    "english": "huge"
+  },
+  {
+    "german": "riesege",
+    "english": "giant"
+  },
+  {
+    "german": "startplatz",
+    "english": "starting point"
+  },
+  {
+    "german": "sanft",
+    "english": "soft"
+  },
+  {
+    "german": "behutsam",
+    "english": "carefully"
+  },
+  {
+    "german": "finger weg",
+    "english": "hands off"
+  },
+  {
+    "german": "hing",
+    "english": "hung"
+  },
+  {
+    "german": "traurig",
+    "english": "sad"
+  },
+  {
+    "german": "schätzen",
+    "english": "treasure"
+  },
+  {
+    "german": "schatzen",
+    "english": "treasure"
+  },
+  {
+    "german": "absicht",
+    "english": "intention"
+  },
+  {
+    "german": "verwenden",
+    "english": "use"
+  },
+  {
+    "german": "vers",
+    "english": "verse"
+  },
+  {
+    "german": "dabei",
+    "english": "included"
+  },
+  {
+    "german": "verstorben",
+    "english": "deceased"
+  },
+  {
+    "german": "ernährt",
+    "english": "fed"
+  },
+  {
+    "german": "ernahrt",
+    "english": "fed"
+  },
+  {
+    "german": "gespart",
+    "english": "saved"
+  },
+  {
+    "german": "überlebt",
+    "english": "survived"
+  },
+  {
+    "german": "uberlebt",
+    "english": "survived"
+  },
+  {
+    "german": "ehrlich",
+    "english": "honest"
+  },
+  {
+    "german": "gesamte",
+    "english": "entire"
+  },
+  {
+    "german": "gespräch",
+    "english": "conversation"
+  },
+  {
+    "german": "gesprach",
+    "english": "conversation"
+  },
+  {
+    "german": "erfolg",
+    "english": "success"
+  },
+  {
+    "german": "angefangen",
+    "english": "begun"
+  },
+  {
+    "german": "herzlos",
+    "english": "heartless"
+  },
+  {
+    "german": "straucheln",
+    "english": "stumble"
+  },
+  {
+    "german": "auftragen",
+    "english": "Instruct"
+  },
+  {
+    "german": "flieger",
+    "english": "aviator"
+  },
+  {
+    "german": "auftreten",
+    "english": "appear"
+  },
+  {
+    "german": "auftref",
+    "english": "occurrence"
+  },
+  {
+    "german": "ausserdem",
+    "english": "aside from that"
+  },
+  {
+    "german": "sowas",
+    "english": "like this"
+  },
+  {
+    "german": "aufpassen",
+    "english": "watch out"
+  },
+  {
+    "german": "ablauf",
+    "english": "process"
+  },
+  {
+    "german": "verlieren",
+    "english": "lose"
+  },
+  {
+    "german": "verwendung",
+    "english": "use"
+  },
+  {
+    "german": "aufgabe",
+    "english": "task"
+  },
+  {
+    "german": "entscheidung",
+    "english": "decision"
+  },
+  {
+    "german": "nebenbei",
+    "english": "alongside"
+  },
+  {
+    "german": "sowas mache ich nicht",
+    "english": "I do not do things like that"
+  },
+  {
+    "german": "schummer",
+    "english": "slumber"
+  },
+  {
+    "german": "durchfallen",
+    "english": "fall through"
+  },
+  {
+    "german": "duchfallen",
+    "english": "fall through"
+  },
+  {
+    "german": "besorgt",
+    "english": "worried"
+  },
+  {
+    "german": "ergebnisse",
+    "english": "results"
+  },
+  {
+    "german": "ergibnesse",
+    "english": "results"
+  },
+  {
+    "german": "geschaft",
+    "english": "business"
+  },
+  {
+    "german": "wettbewerb",
+    "english": "competition"
+  },
+  {
+    "german": "gleich",
+    "english": "even"
+  },
+  {
+    "german": "einladen",
+    "english": "invite"
+  },
+  {
+    "german": "breite",
+    "english": "width"
+  },
+  {
+    "german": "datum",
+    "english": "date"
+  },
+  {
+    "german": "daneben",
+    "english": "Besides"
+  },
+  {
+    "german": "schrank",
+    "english": "wardrobe"
+  },
+  {
+    "german": "breit",
+    "english": "broad"
+  },
+  {
+    "german": "bleistift",
+    "english": "pencil"
+  },
+  {
+    "german": "besichtigen",
+    "english": "view"
+  },
+  {
+    "german": "aufzuge",
+    "english": "raised"
+  },
+  {
+    "german": "schleppend",
+    "english": "dragging"
+  },
+  {
+    "german": "erzählt",
+    "english": "told"
+  },
+  {
+    "german": "erzahlt",
+    "english": "told"
+  },
+  {
+    "german": "gedacht",
+    "english": "thought"
+  },
+  {
+    "german": "blos",
+    "english": "just"
+  },
+  {
+    "german": "verschwende",
+    "english": "waste"
+  },
+  {
+    "german": "ernsthaft",
+    "english": "seriously"
+  },
+  {
+    "german": "ablenkung",
+    "english": "diversion"
+  },
+  {
+    "german": "sicher",
+    "english": "secure"
+  },
+  {
+    "german": "versperrst",
+    "english": "blocked"
+  },
+  {
+    "german": "gesichter",
+    "english": "faces"
+  },
+  {
+    "german": "ausgelacht",
+    "english": "laughed at"
+  },
+  {
+    "german": "anfühlt",
+    "english": "feels"
+  },
+  {
+    "german": "anfuhlt",
+    "english": "feels"
+  },
+  {
+    "german": "besorgt",
+    "english": "worried"
+  },
+  {
+    "german": "sorgen",
+    "english": "care for"
+  },
+  {
+    "german": "kundige",
+    "english": "knowledgeable"
+  },
+  {
+    "german": "unmöglich",
+    "english": "impossible"
+  },
+  {
+    "german": "unmoglich",
+    "english": "impossible"
+  },
+  {
+    "german": "getan",
+    "english": "did"
+  },
+  {
+    "german": "erwischt",
+    "english": "caught"
+  },
+  {
+    "german": "schlägt",
+    "english": "beats"
+  },
+  {
+    "german": "schlagt",
+    "english": "beats"
+  },
+  {
+    "german": "vertretungs",
+    "english": "representative"
+  },
+  {
+    "german": "ausgang",
+    "english": "exit"
+  },
+  {
+    "german": "auf",
+    "english": "on"
+  },
+  {
+    "german": "bei",
+    "english": "at"
+  },
+  {
+    "german": "gemietet",
+    "english": "rented"
+  },
+  {
+    "german": "anzeige",
+    "english": "advertisement"
+  },
+  {
+    "german": "licht",
+    "english": "light"
+  },
+  {
+    "german": "anschluss",
+    "english": "connection"
+  },
+  {
+    "german": "ansangen",
+    "english": "sang on"
+  },
+  {
+    "german": "anrede",
+    "english": "salutation"
+  },
+  {
+    "german": "ankreuzen",
+    "english": "Mark with a cross"
+  },
+  {
+    "german": "anklicken",
+    "english": "click"
+  },
+  {
+    "german": "darf",
+    "english": "may"
+  },
+  {
+    "german": "anbieten",
+    "english": "offer"
+  },
+  {
+    "german": "tun",
+    "english": "do"
+  },
+  {
+    "german": "durfen",
+    "english": "may"
+  },
+  {
+    "german": "absender",
+    "english": "sender"
+  },
+  {
+    "german": "versuchen",
+    "english": "attempt"
+  },
+  {
+    "german": "unterkunft",
+    "english": "accommodation"
+  },
+  {
+    "german": "abfahrt",
+    "english": "Departure"
+  },
+  {
+    "german": "anfangen",
+    "english": "begin"
+  },
+  {
+    "german": "scheinen",
+    "english": "seem"
+  },
+  {
+    "german": "urteilen",
+    "english": "to judge"
+  },
+  {
+    "german": "beschloss",
+    "english": "decided"
+  },
+  {
+    "german": "verletzungen",
+    "english": "injuries"
+  },
+  {
+    "german": "irgendwann",
+    "english": "sometime"
+  },
+  {
+    "german": "irgendww",
+    "english": "somewhere"
+  },
+  {
+    "german": "bemerkten",
+    "english": "noticed"
+  },
+  {
+    "german": "gestorben",
+    "english": "died"
+  },
+  {
+    "german": "grossziehen",
+    "english": "raise"
+  },
+  {
+    "german": "schand",
+    "english": "shame"
+  },
+  {
+    "german": "rasse",
+    "english": "race"
+  },
+  {
+    "german": "durfte",
+    "english": "could"
+  },
+  {
+    "german": "auswahle",
+    "english": "choose"
+  },
+  {
+    "german": "durften sie ihn aush",
+    "english": "were they allowed to take him out?"
+  },
+  {
+    "german": "durgte",
+    "english": "thirsted"
+  },
+  {
+    "german": "wahlen",
+    "english": "choose"
+  },
+  {
+    "german": "verzeihen sie die storung",
+    "english": "Forgive the interruption"
+  },
+  {
+    "german": "der lugt doch",
+    "english": "he's lying"
+  },
+  {
+    "german": "der lught doch",
+    "english": "it's lurking"
+  },
+  {
+    "german": "wohl direkt a",
+    "english": "probably directly a"
+  },
+  {
+    "german": "wohl direc",
+    "english": "probably direct"
+  },
+  {
+    "german": "lugt",
+    "english": "peeps"
+  },
+  {
+    "german": "lught",
+    "english": "lugs"
+  },
+  {
+    "german": "urteilen",
+    "english": "to judge"
+  },
+  {
+    "german": "beweisen",
+    "english": "prove"
+  },
+  {
+    "german": "verzeihung",
+    "english": "forgiveness"
+  },
+  {
+    "german": "anschliessend",
+    "english": "afterward"
+  },
+  {
+    "german": "verschwendet",
+    "english": "wasted"
+  },
+  {
+    "german": "lage",
+    "english": "location"
+  },
+  {
+    "german": "abgesagt",
+    "english": "cancelled"
+  },
+  {
+    "german": "gestrichen werden",
+    "english": "be deleted"
+  },
+  {
+    "german": "geisterstadt",
+    "english": "ghost town"
+  },
+  {
+    "german": "streichen",
+    "english": "cancel"
+  },
+  {
+    "german": "verrückt",
+    "english": "crazy"
+  },
+  {
+    "german": "veruckt",
+    "english": "crazy"
+  },
+  {
+    "german": "schatze",
+    "english": "darlings"
+  },
+  {
+    "german": "sorgen",
+    "english": "care for"
+  },
+  {
+    "german": "vorbei",
+    "english": "over"
+  },
+  {
+    "german": "vob",
+    "english": "vob"
+  },
+  {
+    "german": "betrachtet",
+    "english": "considered"
+  },
+  {
+    "german": "zudrucken",
+    "english": "print"
+  },
+  {
+    "german": "wahrscheinlich",
+    "english": "probably"
+  },
+  {
+    "german": "überraschen",
+    "english": "to surprise"
+  },
+  {
+    "german": "uberraschen",
+    "english": "to surprise"
+  },
+  {
+    "german": "eingeladen",
+    "english": "invited"
+  },
+  {
+    "german": "waffenstillstand",
+    "english": "armistice"
+  },
+  {
+    "german": "kreuzfahrt",
+    "english": "cruise"
+  },
+  {
+    "german": "kruezfahrt",
+    "english": "cruise"
+  },
+  {
+    "german": "lackieren",
+    "english": "paint"
+  },
+  {
+    "german": "seltsam",
+    "english": "strange"
+  },
+  {
+    "german": "beschäftigt",
+    "english": "busy"
+  },
+  {
+    "german": "beschaftigt",
+    "english": "busy"
+  },
+  {
+    "german": "schatz",
+    "english": "treasure"
+  },
+  {
+    "german": "schaz",
+    "english": "darling"
+  },
+  {
+    "german": "schnitt",
+    "english": "cut"
+  },
+  {
+    "german": "farbe",
+    "english": "color"
+  },
+  {
+    "german": "aufgehant",
+    "english": "hung up"
+  },
+  {
+    "german": "ausdruck",
+    "english": "expression"
+  },
+  {
+    "german": "heimzahlen",
+    "english": "pay back"
+  },
+  {
+    "german": "heimzahel",
+    "english": "home pay"
+  },
+  {
+    "german": "drauf",
+    "english": "on it"
+  },
+  {
+    "german": "zogert",
+    "english": "hesitates"
+  },
+  {
+    "german": "angetan",
+    "english": "impressed"
+  },
+  {
+    "german": "schatze",
+    "english": "darlings"
+  },
+  {
+    "german": "sie gehen sehr geheimnisvolle damit um",
+    "english": "they are very secretive about it"
+  },
+  {
+    "german": "selber dran sind",
+    "english": "it's your own turn"
+  },
+  {
+    "german": "verletzt",
+    "english": "injured"
+  },
+  {
+    "german": "rache",
+    "english": "revenge"
+  },
+  {
+    "german": "verschwende",
+    "english": "waste"
+  },
+  {
+    "german": "schwenken",
+    "english": "sway"
+  },
+  {
+    "german": "heimzahlen",
+    "english": "pay back"
+  },
+  {
+    "german": "farkt",
+    "english": "farct"
+  },
+  {
+    "german": "farke",
+    "english": "farke"
+  },
+  {
+    "german": "herzinfarkt",
+    "english": "Heart attack"
+  },
+  {
+    "german": "herzinfarket",
+    "english": "heart attack"
+  },
+  {
+    "german": "fast",
+    "english": "nearly"
+  },
+  {
+    "german": "lacherlich",
+    "english": "ridiculous"
+  },
+  {
+    "german": "gesichts ausdrucke",
+    "english": "facial expressions"
+  },
+  {
+    "german": "ausdruck",
+    "english": "expression"
+  },
+  {
+    "german": "gesich",
+    "english": "face"
+  },
+  {
+    "german": "schminken",
+    "english": "makeup"
+  },
+  {
+    "german": "angetan",
+    "english": "impressed"
+  },
+  {
+    "german": "auge passiert",
+    "english": "eye happens"
+  },
+  {
+    "german": "streichkrieg",
+    "english": "prank war"
+  },
+  {
+    "german": "streichkried",
+    "english": "prankcried"
+  },
+  {
+    "german": "reine",
+    "english": "pure"
+  },
+  {
+    "german": "auspackt",
+    "english": "unpacked"
+  },
+  {
+    "german": "war",
+    "english": "was"
+  },
+  {
+    "german": "meinun",
+    "english": "opinion"
+  },
+  {
+    "german": "gesundhei",
+    "english": "health"
+  },
+  {
+    "german": "traurig",
+    "english": "sad"
+  },
+  {
+    "german": "trauu",
+    "english": "dare"
+  },
+  {
+    "german": "bewegt",
+    "english": "emotional"
+  },
+  {
+    "german": "verstand",
+    "english": "understanding"
+  },
+  {
+    "german": "versa",
+    "english": "versa"
+  },
+  {
+    "german": "tauschen",
+    "english": "to exchange"
+  },
+  {
+    "german": "aufbauen",
+    "english": "build up"
+  },
+  {
+    "german": "versprech",
+    "english": "promise"
+  },
+  {
+    "german": "stell",
+    "english": "put"
+  },
+  {
+    "german": "gleich",
+    "english": "even"
+  },
+  {
+    "german": "kurs",
+    "english": "course"
+  },
+  {
+    "german": "unmoglich",
+    "english": "impossible"
+  },
+  {
+    "german": "tro",
+    "english": "tro"
+  },
+  {
+    "german": "erfolg",
+    "english": "success"
+  },
+  {
+    "german": "gesunder menschenverstand",
+    "english": "common sense"
+  },
+  {
+    "german": "entspannt",
+    "english": "relaxed"
+  },
+  {
+    "german": "entsa",
+    "english": "entsa"
+  },
+  {
+    "german": "beschloss",
+    "english": "decided"
+  },
+  {
+    "german": "wusste aber er heirarten sollte",
+    "english": "but knew he should get married"
+  },
+  {
+    "german": "wusse",
+    "english": "knew"
+  },
+  {
+    "german": "heiraten",
+    "english": "marry"
+  },
+  {
+    "german": "titten zu",
+    "english": "tits closed"
+  },
+  {
+    "german": "diejenige",
+    "english": "the one"
+  },
+  {
+    "german": "diejn",
+    "english": "diejn"
+  },
+  {
+    "german": "entschie",
+    "english": "decided"
+  },
+  {
+    "german": "ausgegeben",
+    "english": "issued"
+  },
+  {
+    "german": "zukunftspläne",
+    "english": "future plans"
+  },
+  {
+    "german": "weg",
+    "english": "away"
+  },
+  {
+    "german": "boden",
+    "english": "floor"
+  },
+  {
+    "german": "leide",
+    "english": "suffer"
+  },
+  {
+    "german": "traurig",
+    "english": "sad"
+  },
+  {
+    "german": "wartest",
+    "english": "wait"
+  },
+  {
+    "german": "zeitpunkt",
+    "english": "time"
+  },
+  {
+    "german": "gehalt",
+    "english": "salary"
+  },
+  {
+    "german": "droge",
+    "english": "drug"
+  },
+  {
+    "german": "gebraucht",
+    "english": "needed"
+  },
+  {
+    "german": "narbe",
+    "english": "scar"
+  },
+  {
+    "german": "auhen",
+    "english": "eyes"
+  },
+  {
+    "german": "verbirgt",
+    "english": "hides"
+  },
+  {
+    "german": "dunkelheit",
+    "english": "Darkness"
+  },
+  {
+    "german": "verlust",
+    "english": "loss"
+  },
+  {
+    "german": "vorne anfangen konnte",
+    "english": "could start at the beginning"
+  },
+  {
+    "german": "vertraue",
+    "english": "trust"
+  },
+  {
+    "german": "getan",
+    "english": "did"
+  },
+  {
+    "german": "sowohl",
+    "english": "as well as"
+  },
+  {
+    "german": "trotzdem",
+    "english": "despite it"
+  },
+  {
+    "german": "wahlen",
+    "english": "choose"
+  },
+  {
+    "german": "wahel",
+    "english": "wahel"
+  },
+  {
+    "german": "wahlen",
+    "english": "choose"
+  },
+  {
+    "german": "getroffe",
+    "english": "hit"
+  },
+  {
+    "german": "ich",
+    "english": "I"
+  },
+  {
+    "german": "schlechte",
+    "english": "bad"
+  },
+  {
+    "german": "",
+    "english": "entscheidunge"
+  },
+  {
+    "german": "schneiderin",
+    "english": "seamstress"
+  },
+  {
+    "german": "geschaltet",
+    "english": "switched"
+  },
+  {
+    "german": "dürfen",
+    "english": "may"
+  },
+  {
+    "german": "verabschieden",
+    "english": "say goodbye"
+  },
+  {
+    "german": "drinnen und draußen",
+    "english": "inside and outside"
+  },
+  {
+    "german": "gesprochen",
+    "english": "spoken"
+  },
+  {
+    "german": "glück",
+    "english": "luck"
+  },
+  {
+    "german": "geschieden",
+    "english": "divorced"
+  },
+  {
+    "german": "getränke",
+    "english": "beverages"
+  },
+  {
+    "german": "verändert",
+    "english": "changed"
+  },
+  {
+    "german": "werden gerne gekauft",
+    "english": "are readily purchased"
+  }
+]
